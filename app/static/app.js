@@ -183,7 +183,7 @@ async function grade(g) {
   const res = await api.post('/api/review', { card_id: R.item.card.id, tier: R.item.tier, grade: g });
   if (res.error) { toast(res.error); return; }
   const ev = res.events.filter(e => !e.startsWith('implied')).map(e => ({
-    short_circuit: 'marked previously known ✦', reading_seeded: 'reading seeded with a long interval', reading_reopened: 'reading re-opened',
+    short_circuit: 'marked previously known ✦', reading_reopened: 'reading re-opened',
     graduated: 'graduated 🎓', 'unlocked:reading': 'reading unlocked', 'unlocked:produce': 'produce unlocked', 'unlocked:mutate': 'mutate unlocked' }[e] || e));
   const implied = res.events.filter(e => e.startsWith('implied')).map(e => e.split(':')[1]);
   const sched = res.scheduled_days < 1 ? `${Math.round(res.scheduled_days * 1440)} min` : `${Math.round(res.scheduled_days)} d`;

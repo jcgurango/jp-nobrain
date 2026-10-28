@@ -86,8 +86,9 @@ Bucketing and rules (`app/scheduler.py`):
 - New cards enter Listening in combined-deck order. One pass on Listening unlocks Reading,
   Listening + Reading unlock Produce, a Produce pass unlocks Mutate. Unlocked tiers are due at once.
 - **Short circuit.** A first-review Instant on Listening (no replay) marks the card previously
-  known, rates it Easy, seeds Reading with the same long interval and unlocks Produce immediately.
-  A first-review Instant on Reading rates it Easy and marks it short-circuited too.
+  known, rates it Easy and unlocks Produce immediately. Reading is unlocked too but still has to
+  be tested: it comes up as a normal first review, and an Instant there earns its own long interval.
+  A first-review Instant on Reading rates it Easy and marks the card short-circuited too.
   If a short-circuited card misses Produce twice, Reading is re-opened as new and the flag cleared.
 - **Implied credit.** Any pass grants each lower tier in `review` state half of a Good review
   (stability blended by `implied_credit`), pushing its due date out. Failures never propagate.

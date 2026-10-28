@@ -101,12 +101,8 @@ def review(con, card_id, tier, grade):
     _log(con, batch, card_id, tier, rating, grade, 0, info, new_st, snapshot)
     result['scheduled_days'] = info['scheduled_days']
 
-    # seed the skipped tier with a long interval rather than skipping it entirely
-    if short and tier == 'listening':
-        seeded, sinfo = fsrs.review(_fresh(), fsrs.EASY, retention=S['desired_retention'])
-        _save_state(con, card_id, 'reading', seeded); states['reading'] = dict(seeded, card_id=card_id, tier='reading')
-        _log(con, batch, card_id, 'reading', fsrs.EASY, 'seeded', 1, sinfo, seeded, None)
-        result['events'].append('reading_seeded')
+    # a Listening short circuit opens Produce at once, but Reading still has to be tested:
+    # it is unlocked as a normal new review (due now) rather than seeded with a pass.
 
     # --- implied credit downward on a pass
     if rating >= 2:

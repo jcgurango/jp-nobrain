@@ -1,0 +1,9 @@
+*.apkg
+raw/
+.git/
+**/__pycache__/
+*.pyc
+.venv/
+progress.sqlite*
+Dockerfile
+.dockerignore

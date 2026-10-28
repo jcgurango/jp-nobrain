@@ -117,11 +117,12 @@ class Handler(BaseHTTPRequestHandler):
             self.send_json({'error': str(e)}, 500)
 
 def main():
-    port = int(sys.argv[1]) if len(sys.argv) > 1 else 8765
+    port = int(sys.argv[1]) if len(sys.argv) > 1 else int(os.environ.get('JP_PORT', 8765))
+    host = os.environ.get('JP_HOST', '127.0.0.1')
     if CON.execute('SELECT count(*) FROM cards').fetchone()[0] == 0:
         print('No cards in the database yet. Run: python3 -I app/import_deck.py'); sys.exit(1)
-    srv = ThreadingHTTPServer(('127.0.0.1', port), Handler)
-    print(f'jp-nobrain running at http://127.0.0.1:{port}/  (db: {db.DB_PATH})')
+    srv = ThreadingHTTPServer((host, port), Handler)
+    print(f'jp-nobrain running at http://{host}:{port}/  (db: {db.DB_PATH})')
     try: srv.serve_forever()
     except KeyboardInterrupt: pass
 

@@ -69,6 +69,21 @@ python3 -I app/server.py          # http://127.0.0.1:8765
 
 Progress lives in `progress.sqlite` next to the app (ignored by git). Copy it to back up.
 
+`JP_DATA_DIR` moves `progress.sqlite` into another folder (`JP_DB` names the file outright);
+`JP_HOST` / `JP_PORT` set the bind address (default `127.0.0.1:8765`).
+
+### Docker
+
+The image bundles `data/` and `media/` (so build after running the pipeline) and keeps progress
+in `/data`, a volume. The deck is re-imported on every start, which keeps progress.
+
+```
+docker build -t jcgurango/jp-nobrain:latest .
+mkdir -p ~/jp-nobrain-data
+docker run -d --name jp-nobrain -p 8765:8765 --user "$(id -u):$(id -g)" \
+  -v ~/jp-nobrain-data:/data jcgurango/jp-nobrain:latest
+```
+
 ### Tiers
 
 Each card runs four parallel FSRS-5 schedules. Grades map to FSRS ratings Again / Hard / Good

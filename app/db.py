@@ -1,7 +1,9 @@
 import json, os, sqlite3
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DB_PATH = os.environ.get('JP_DB', os.path.join(ROOT, 'progress.sqlite'))
+# JP_DB names the file outright; otherwise it is progress.sqlite inside JP_DATA_DIR (default: project root).
+DATA_DIR = os.environ.get('JP_DATA_DIR', ROOT)
+DB_PATH = os.environ.get('JP_DB', os.path.join(DATA_DIR, 'progress.sqlite'))
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS cards (
@@ -43,6 +45,7 @@ DEFAULT_SETTINGS = {
 }
 
 def connect():
+    os.makedirs(os.path.dirname(os.path.abspath(DB_PATH)), exist_ok=True)
     con = sqlite3.connect(DB_PATH, check_same_thread=False)
     con.row_factory = sqlite3.Row
     con.execute('PRAGMA journal_mode=WAL')

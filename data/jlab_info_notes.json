@@ -1,0 +1,843 @@
+[
+ {
+  "nid": 1600420030000,
+  "position": 0,
+  "title": "Before you start (1)",
+  "text": "Before you start (1)\n\nThis deck contains a few \"one-shot cards\" you might not want to repeat, for example remarks such as this one. Whenever there's a card you don't want to see anymore, please don't delete but suspend it. If you delete cards, they will be reimported when the deck is updated and you have to delete them again. This is not the case for suspended cards. On desktop Anki, you can suspend cards pressing either \"@\", \"!\" or by using the \"more\"-button on the bottom right during review.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Before you start (1)</strong></p><br>This deck contains a few \"one-shot cards\" you might not want to repeat, for example remarks such as this one. Whenever there's a card you don't want to see anymore, please don't delete but suspend it. If you delete cards, they will be reimported when the deck is updated and you have to delete them again. This is not the case for suspended cards. On desktop Anki, you can suspend cards pressing either \"@\", \"!\" or by using the \"more\"-button on the bottom right during review.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600420040000,
+  "position": 1,
+  "title": "Before you start (2)",
+  "text": "Before you start (2)\nThis course follows Tae Kim's famous grammar guide, but all example sentences are taken from anime & dorama. It is designed to work with my Anki addon, but can also be used without this out of the box. Without the addon, you need to take care of the following things yourself:\n- Switching between the Japanese writing systems\n- Looking up words\n- Removal of old cards after importing a new version of this deck (rarely happens)\n- Management of the reading cards\n\nHow this is done without the addon is described here.\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Before you start (2)</strong></p><p>This course follows Tae Kim's famous <a href = \"http://www.guidetojapanese.org/learn/grammar\">grammar guide</a>, but all example sentences are taken from anime & dorama. It is designed to work with my <a href = \"https://www.japanese-like-a-breeze.com/addon-manual/\">Anki addon</a>, but can also be used without this out of the box. Without the addon, you need to take care of the following things yourself:</p><ul><li>Switching between the Japanese writing systems</li><li>Looking up words</li><li>Removal of old cards after importing a new version of this deck (rarely happens)</li><li>Management of the reading cards</li></ul>How this is done without the addon is described <a href=\"https://www.japanese-like-a-breeze.com/course-without-addon/\">here</a>.<br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar",
+   "https://www.japanese-like-a-breeze.com/addon-manual/",
+   "https://www.japanese-like-a-breeze.com/course-without-addon/"
+  ]
+ },
+ {
+  "nid": 1600420060000,
+  "position": 3,
+  "title": "Wait, that was not written in Japanese!",
+  "text": "Wait, that was not written in Japanese!\n\nIf you goal is to master listening comprehension first, focusing on written Japanese may slow you down in the beginning. My recommendation thus is to first learn all grammar and 2-3000 words with the latin transcription and then turn towards written Japanese. Something similar is also recommended by Jeff Brown and Jeanne Egasse (language teachers) in this video.\n\nThere is of course nothing wrong about using the \"real\" Japanese writing systems on the cards. You can use my Anki addon to fully customize your Japanese reading experience any time. If you don't want to use the addon, have a look at this page.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align:center\"><strong>Wait, that was not written in Japanese!</strong></p><br>If you goal is to master listening comprehension first, focusing on written Japanese may slow you down in the beginning. My recommendation thus is to first learn all grammar and 2-3000 words with the latin transcription and <em>then</em> turn towards written Japanese. Something similar is also recommended by Jeff Brown and Jeanne Egasse (language teachers) in this <a href=\"https://www.youtube.com/watch?v=illApgaLgGA&t=1267\">video</a>.<br><br>There is of course nothing wrong about using the \"real\" Japanese writing systems on the cards. You can use my <a href = \"https://www.japanese-like-a-breeze.com/addon-manual/\">Anki addon</a> to fully customize your Japanese reading experience any time. If you don't want to use the addon, have a look at <a href=\"https://www.japanese-like-a-breeze.com/course-without-addon/\">this page</a>.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://www.youtube.com/watch?v=illApgaLgGA&t=1267",
+   "https://www.japanese-like-a-breeze.com/addon-manual/",
+   "https://www.japanese-like-a-breeze.com/course-without-addon/"
+  ]
+ },
+ {
+  "nid": 1600420070000,
+  "position": 4,
+  "title": "For now, just keep the following things in mind:",
+  "text": "For now, just keep the following things in mind:\n- The latin transcription used on these cards can be mapped to Japanese without any ambiguities.\n- The only purpose of the transcription is to help you focus on listening comprehension.\n- If you're interested in the writing systems, read Tae Kim's summary. This is not required to continue with this course though.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>For now, just keep the following things in mind:</strong></p><ul><li>The latin transcription used on these cards can be mapped to Japanese without any ambiguities.</li><li>The only purpose of the transcription is to help you focus on listening comprehension.</li><li>If you're interested in the writing systems, read Tae Kim's <a href=\"http://www.guidetojapanese.org/learn/grammar/writing\">summary</a>. This is not required to continue with this course though. </li></ul><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/writing"
+  ]
+ },
+ {
+  "nid": 1600420160000,
+  "position": 14,
+  "title": "An important advice",
+  "text": "An important advice\n\nDon't worry if there's something you don't immediately understand on a flashcard. Just have a look at the next cards, I'll try to cover things with many examples. If you still don't understand something, there's a question link on the cards. Use it to send me feedback. If it is relevant for others, I will update the cards accordingly.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>An important advice</strong></p><br>Don't worry if there's something you don't immediately understand on a flashcard. Just have a look at the next cards, I'll try to cover things with many examples. If you still don't understand something, there's a question link on the cards. Use it to send me feedback. If it is relevant for others, I will update the cards accordingly.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600420290000,
+  "position": 27,
+  "title": "What about learning grammar?",
+  "text": "What about learning grammar?\nAs a language learner you may automatically think that you need to learn grammar. This is, however, controversally discussed within the language learner's community. Opinions range from: \"Yes, learn it\" to \"No, don't do it, kids become fluent speakers without learning grammar, too\".\nI think that learning a little bit of grammar is helpful, but only to understand things faster. What does not work from my experience is, to learn grammar rules and then try to construct sentences from this.\nSo my recommendation is: Have a quick look at the rules, but don't do any exercises. It is helpful to know e.g. that \"datta\" is past tense of \"da\", but please don't start to worry while looking at e.g. the intimidating 299 pages of Tae Kim's \"Guide to Japanese Grammar\". I'll try to keep grammar explanations minimal throughout this course.\nJeff Brown (language professor) talks about this in this video.\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>What about learning grammar?</strong></p><p>As a language learner you may automatically think that you need to learn grammar. This is, however, controversally discussed within the language learner's community. Opinions range from: \"Yes, learn it\" to \"No, don't do it, kids become fluent speakers without learning grammar, too\".</p><p>I think that learning a <strong><em>little bit</em></strong> of grammar is helpful, but only to <strong><em>understand</em> </strong>things faster. What does not work from my experience is, to learn grammar rules and then try to construct sentences from this.</p><p>So my recommendation is: Have a quick look at the rules, but don't do any exercises. It is helpful to know e.g. that \"datta\" is past tense of \"da\", but please don't start to worry while looking at e.g. the intimidating&nbsp; 299 pages of Tae Kim's \"Guide to Japanese Grammar\". I'll try to keep grammar explanations minimal throughout this course.</p><p>Jeff Brown (language professor) talks about this in this <a href=\"https://youtu.be/illApgaLgGA?t=528\">video.</a></p><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://youtu.be/illApgaLgGA?t=528"
+  ]
+ },
+ {
+  "nid": 1600420390000,
+  "position": 37,
+  "title": "For the sake of completeness regarding the writing systems: A single Japanese (k",
+  "text": "For the sake of completeness regarding the writing systems: A single Japanese (kana) character is either represented by a vowel (a, i, u, e, o) or a combination of a consonant and a vowel (e.g. ki). Have a look at the table on Tae Kim's website. If a consonant-based character ending on an \"i\" (e.g. ki/き) is combined with a y-based character (e.g. yo/よ), the \"i\" is omitted in the latin transcription, because the \"i\" is not pronounced. Moreover, the y-based character is spelled small. You saw an example on the previous card, which will also be repeated on the next card (kyou). kyou is spelled きょう in Japanese (ki/き + small yo/ょ + u/う). Compare the large and small yo: よょ.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: left\"> For the sake of completeness regarding the writing systems: A single Japanese (kana) character is either represented by a vowel (a, i, u, e, o) or a combination of a consonant and a vowel (e.g. ki). Have a look at the table on Tae Kim's <a href=\"http://www.guidetojapanese.org/learn/grammar/hiragana\">website</a>. If a consonant-based character ending on an \"i\" (e.g. ki/き) is combined with a y-based character (e.g. yo/よ), the \"i\" is omitted in the latin transcription, because the \"i\" is not pronounced. Moreover, the y-based character is spelled small. You saw an example on the previous card, which will also be repeated on the next card (kyou). kyou is spelled きょう in Japanese (ki/き + small yo/ょ + u/う). Compare the large and small yo: よょ.</p><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/hiragana"
+  ]
+ },
+ {
+  "nid": 1600420480000,
+  "position": 46,
+  "title": "This is super weird!",
+  "text": "This is super weird!\n\nFrom the start of my own journey to master Japanese, one thought got stuck in my mind. In my diary, I wrote: \"This language is super weird, is it even possible to write an exiting book in it\"? That's a presumtuous and arrogant thought, but it simply resulted from the fact that I wasn't used to the language yet. I speak English and German and compared to these languages, Japanese is different in about anything you can imagine. Just remember the sentence from the last card: \"watashi mo tanoshimi - I too anticipation/enjoyment\". Don't question this, just accept it. Probably the most wonderful thing about learning Japanese is that it will start to make sense. You'll get used to an entirely different way of thinking and forming sentences!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>This is super weird!</strong></p><br>From the start of my own journey to master Japanese, one thought got stuck in my mind. In my diary, I wrote: \"This language is super weird, is it even possible to write an exiting book in it\"? That's a presumtuous and arrogant thought, but it simply resulted from the fact that I wasn't <em>used</em> to the language yet. I speak English and German and compared to these languages, Japanese is different in about anything you can imagine. Just remember the sentence from the last card: \"watashi mo tanoshimi - I too anticipation/enjoyment\". Don't question this, just accept it. Probably the most wonderful thing about learning Japanese is that it will start to make sense. You'll get used to an entirely different way of thinking and forming sentences!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600420550000,
+  "position": 53,
+  "title": "ga/が vs. ha/は",
+  "text": "ga/が vs. ha/は\nThe \"ga\" particle (が) and the \"ha\" particle (は) are related, but often cause headaches - especially for beginners. In fact they are very easy to distinguish, I like Jay Rubin's explanation very much (he's a famous Japanese translator). In a nutshell, he states: \"ha\" sets the preceding word as topic and makes the listener curious about what comes NEXT. \"ga\" however puts the listener's attention onto the PREVIOUS word.\nIf the speaker would pause after the \"ha\", the listener's brain would whisper: \"yes, yes and then what?\", e.g.: boku ha...(yes, yes, yes? what?)...baka da (oh, you're an idiot).\nWith \"boku ga baka da\" however, the speaker would say: \"It's ME, who's the idiot\".\nThis explanation is taken from: \"Making sense of Japanese\", p. 34. Some more examples follow!",
+  "html": "<p style=\"text-align: center\"><strong>ga/が vs. ha/は</strong></p><p>The \"ga\" particle (が) and the \"ha\" particle (は) are related, but often cause headaches - especially for beginners. In fact they are very easy to distinguish, I like Jay Rubin's explanation very much (he's a famous Japanese translator). In a nutshell, he states: \"ha\" sets the preceding word as topic and makes the listener curious about what comes <span style=\"color: #ff0000;\"><strong>NEXT</strong></span>. \"ga\" however puts the listener's attention onto the <span style=\"color: #ff0000;\"><strong>PREVIOUS</strong> </span>word.</p><p>If the speaker would pause after the \"ha\", the listener's brain would whisper: \"yes, yes and then what?\", e.g.: boku ha...(yes, yes, yes? what?)...baka da (oh, you're an idiot).</p><p>With \"boku ga baka da\" however, the speaker would say: \"It's <strong><em><span style=\"text-decoration: underline;\"><span style=\"color: #ff0000; text-decoration: underline;\">ME</span></span></em></strong>, who's the idiot\".</p><p>This explanation is taken from: \"Making sense of Japanese\", p. 34. Some more examples follow!</p>",
+  "links": []
+ },
+ {
+  "nid": 1600420690000,
+  "position": 67,
+  "title": "Don't be rude, part 1",
+  "text": "Don't be rude, part 1\n\nJapanese has several explicit levels of politeness and it is very easy to sound rude to others if you don't know what you're saying. This is all the more important in the context of this deck: It follows Tae Kim's grammar guide, which doesn't start with polite, but plain forms of the language. This makes sense from a didactical point of view, but please don't use the sentences on the next ~300 cards in practice (yet). They cover the \"basic grammar\" chapter of the book, polite speech then follows. For now, just try to understand everything by listening comprehension only.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Don't be rude, part 1</strong></p><br>Japanese has several explicit levels of politeness and it is very easy to sound rude to others if you don't know what you're saying. This is all the more important in the context of this deck: It follows Tae Kim's grammar guide, which doesn't start with polite, but plain forms of the language. This makes sense from a didactical point of view, but please don't use the sentences on the next ~300 cards in practice (yet). They cover the \"basic grammar\" chapter of the book, polite speech then follows. For now, just try to understand everything by listening comprehension only.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600420870000,
+  "position": 85,
+  "title": "But \"suteki, suki and kirei\" also ended with an \"i\"",
+  "text": "But \"suteki, suki and kirei\" also ended with an \"i\"\n\nUnfortunately, there are some na-adjectives that also end on an \"i\", which means they look exactly like an i-adjective. From the Japanese learner's diary I kept during the last years I can tell that I was very worried about this in the beginning. I desperately wanted to understand all the rules and didn't want to make any mistakes. 5 years later I can tell you two things: First, there are not many \"na\"-adjectives that end on an \"i\". Second: You'll learn to correctly apply \"na\" from context if you consume lots of Japanese. I'll point you to some nice resources towards the end of this course.\n\nDouble vowels (ii in this case) are pronounced long.\n\nOk, I'm saying there are not many na-adjectives ending on an i but still managed to put 3 of them into this course [facepalm].\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>But \"suteki, suki and kirei\" also ended with an \"i\"</strong></p><br>Unfortunately, there are some na-adjectives that also end on an \"i\", which means they look exactly like an i-adjective. From the Japanese learner's diary I kept during the last years I can tell that I was very worried about this in the beginning. I desperately wanted to understand all the rules and didn't want to make any mistakes. 5 years later I can tell you two things: First, there are not many \"na\"-adjectives that end on an \"i\". Second: You'll learn to correctly apply \"na\" from context if you consume lots of Japanese. I'll point you to some nice resources towards the end of this course.<br><br>Double vowels (ii in this case) are pronounced long.<br><br>Ok, I'm saying there are not many na-adjectives ending on an i but still managed to put 3 of them into this course [facepalm].<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600420970000,
+  "position": 96,
+  "title": "Advice: Headphones will strongly boost your listening comprehension",
+  "text": "Advice: Headphones will strongly boost your listening comprehension\n\nYou'll be surprised, how much more you'll understand. Give it a try!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Advice: Headphones will strongly boost your listening comprehension</strong></p><br>You'll be surprised, how much more you'll understand. Give it a try!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600421090000,
+  "position": 110,
+  "title": "Don't practice adjective conjugation",
+  "text": "Don't practice adjective conjugation\n\nNow that was an adjective infusion! I'd like to stress one point again: I don't think it is super helpful to actively practice grammar rules, this will not help you to start speaking. Understanding the meanings of the forms by listening comprehension is enough. If you're a grammar enthusiast though and are desperately looking forward to conjugating some adjectives, have a look at Tae Kim, p. 40 or:\nhttp://www.guidetojapanese.org/learn/grammar/adjectives#The_i-adjective\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Don't practice adjective conjugation</strong></p><br>Now that was an adjective infusion! I'd like to stress one point again: I don't think it is super helpful to actively practice grammar rules, this will not help you to start speaking. Understanding the meanings of the forms by listening comprehension is enough. If you're a grammar enthusiast though and are desperately looking forward to conjugating some adjectives, have a look at Tae Kim, p. 40 or:<br><a href=\"http://www.guidetojapanese.org/learn/grammar/adjectives#The_i-adjective\">http://www.guidetojapanese.org/learn/grammar/adjectives#The_i-adjective</a><br><br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/adjectives#The_i-adjective"
+  ]
+ },
+ {
+  "nid": 1600421097500,
+  "position": 111,
+  "title": "Bonus content: Video recommendations",
+  "text": "Bonus content: Video recommendations\n\nI'm currently trying to find videos on YouTube that fit your current level of Japanese. Read more about this here. At this early stage in the deck, it's almost impossible to find something meaningful that is easy to understand, better videos are added later (the next ones after about 1000 cards).\n\nVideo 1: Simple Japanese self-introduction- Note that names are often hard to understand in the beginning\n- Unknown grammar: desu - consider it as a polite form of \"da\" for now. This is not 100% correct, but this is explained soon\n\nVideo 2: About Japanese loan words - Illustrates differences in pronunciation when comparing Japanese to English\n- Just pay attention to the the word pairs and how they are pronounced in English vs. Japanese\n\nVideo 3: About onomatopoeia - onomatopoeia = words that phonetically imitate the things they represent\n- Japanese has many and they sound cool\n\nJust the links for copy/pasting:\nhttps://youtu.be/dqFiDq-ZGiQ\nhttps://youtu.be/8AY1llXOIvg\nhttps://youtu.be/H4RodoGyH44\n\nAre these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Bonus content: Video recommendations</strong></p><br>I'm currently trying to find videos on YouTube that fit your current level of Japanese. Read more about this <a href=\"https://www.japanese-like-a-breeze.com/videomining/\">here</a>. At this early stage in the deck, it's almost impossible to find something meaningful that is easy to understand, better videos are added later (the next ones after about 1000 cards).<br><br><a href=\"https://youtu.be/dqFiDq-ZGiQ\">Video 1: Simple Japanese self-introduction</a><ul><li>Note that names are often hard to understand in the beginning</li><li>Unknown grammar: desu - consider it as a polite form of \"da\" for now. This is not 100% correct, but this is explained soon</li></ul><br><a href=\"https://youtu.be/8AY1llXOIvg\">Video 2: About Japanese loan words</a> <ul><li>Illustrates differences in pronunciation when comparing Japanese to English</li><li>Just pay attention to the the word pairs and how they are pronounced in English vs. Japanese</li></ul><br><a href=\"https://youtu.be/H4RodoGyH44\">Video 3: About onomatopoeia</a> <ul><li>onomatopoeia = words that phonetically imitate the things they represent</li><li>Japanese has many and they sound cool</li></ul><br>Just the links for copy/pasting:<br><a href=\"https://youtu.be/dqFiDq-ZGiQ\">https://youtu.be/dqFiDq-ZGiQ</a><br><a href=\"https://youtu.be/8AY1llXOIvg\">https://youtu.be/8AY1llXOIvg</a><br><a href=\"https://youtu.be/H4RodoGyH44\">https://youtu.be/H4RodoGyH44</a><br><br>Are these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://www.japanese-like-a-breeze.com/videomining/",
+   "https://youtu.be/dqFiDq-ZGiQ",
+   "https://youtu.be/8AY1llXOIvg",
+   "https://youtu.be/H4RodoGyH44",
+   "https://youtu.be/dqFiDq-ZGiQ",
+   "https://youtu.be/8AY1llXOIvg",
+   "https://youtu.be/H4RodoGyH44"
+  ]
+ },
+ {
+  "nid": 1600421230000,
+  "position": 128,
+  "title": "The previous collection of verbs contained all possible verb endings: su/す, ku/く",
+  "text": "The previous collection of verbs contained all possible verb endings: su/す, ku/く, gu/ぐ, mu/む, nu/ぬ, bu/ぶ, ru/る, tsu/つ and u/う. These endings in the end define how the verb is conjugated. Don't worry about this for now, here's the list of words again:\n\nhanasu\nkaku\nisogu\ntanomu\nshinu\nasobu\ntaberu\nmatsu\nkau / mukau / tatakau",
+  "html": "The previous collection of verbs contained all possible verb endings: su/す, ku/く, gu/ぐ, mu/む, nu/ぬ, bu/ぶ, ru/る, tsu/つ and u/う. These endings in the end define how the verb is conjugated. Don't worry about this for now, here's the list of words again:<br><br>hanasu<br>kaku<br>isogu<br>tanomu<br>shinu<br>asobu<br>taberu<br>matsu<br>kau / mukau / tatakau<br>",
+  "links": []
+ },
+ {
+  "nid": 1600421240000,
+  "position": 129,
+  "title": "A quick remark on verb conjugations (next topic)",
+  "text": "A quick remark on verb conjugations (next topic)\nVerbs are easy to learn, but they can be conjugated in quite a few ways. I found this to be the most difficult topic about Japanese grammar. When I made the transition from my text book to learning with real movies, I often could not understand immediately, what the particular forms meant. On p. 47, Tae Kim writes the same: Verb conjugation rules are the most complex ones in Japanese. The following websites helped me a lot:\n- japaneseverbconjugator\n- verbix\n- wikipedia\n\nOn the first two sites you can quickly conjugate verbs and search the dictionary form for a given conjugation. Verbix sometimes has wrong conjugations for irregular verbs, I'd rather recommend to use japaneseverbconjugator. The wikipedia article contains a conjugation chart. Again: I don't recommend to practice this, but it's a very good reference.\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>A quick remark on verb conjugations (next topic)</strong></p><p>Verbs are easy to learn, but they can be conjugated in quite a few ways. I found this to be the most difficult topic about Japanese grammar. When I made the transition from my text book to learning with real movies, I often could not understand immediately, what the particular forms meant. On p. 47, Tae Kim writes the same: Verb conjugation rules are the most complex ones in Japanese. The following websites helped me a lot:</p><ul><li><a href=\"http://www.japaneseverbconjugator.com/\">japaneseverbconjugator</a></li><li><a href=\"https://www.verbix.com/languages/japanese.html\">verbix</a></li><li><a href=\"https://en.wikipedia.org/wiki/Japanese_verb_conjugation#Example_conjugations\">wikipedia</a></li></ul><p>On the first two sites you can quickly conjugate verbs and search the dictionary form for a given conjugation. <strong>Verbix sometimes has wrong conjugations for irregular verbs, I'd rather recommend to use japaneseverbconjugator</strong>. The wikipedia article contains a conjugation chart. Again: I don't recommend to practice this, but it's a very good reference.</p><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.japaneseverbconjugator.com/",
+   "https://www.verbix.com/languages/japanese.html",
+   "https://en.wikipedia.org/wiki/Japanese_verb_conjugation#Example_conjugations"
+  ]
+ },
+ {
+  "nid": 1600421250000,
+  "position": 130,
+  "title": "Another remark on verb conjugations",
+  "text": "Another remark on verb conjugations\nIn the following, I will cover the conjugations and forms of verbs in a very sloppy way. I will explain only what's necessary to understand a given sentence, but not go into detail about the precise grammar. The link to Tae Kim's respective chapters will be on the cards if you want to know more details. But please don't try to practice conjugation - or at least wait until the end of this course. Maybe the only thing to keep in mind for now is: Japanese verbs always end on \"u\" in the latin transcription, which results from the following Japanese characters: su/す, ku/く, gu/ぐ, mu/む, nu/ぬ, bu/ぶ, ru/る, tsu/つ and u/う\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Another remark on verb conjugations</strong></p><p>In the following, I will cover the conjugations and forms of verbs in a very sloppy way. I will explain only what's necessary to understand a given sentence, but not go into detail about the precise grammar. The link to Tae Kim's respective chapters will be on the cards if you want to know more details. But please don't try to practice conjugation - or at least wait until the end of this course. Maybe the only thing to keep in mind for now is: Japanese verbs always end on \"u\" in the latin transcription, which results from the following Japanese characters: su/す, ku/く, gu/ぐ, mu/む, nu/ぬ, bu/ぶ, ru/る, tsu/つ and u/う</p><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600421470000,
+  "position": 152,
+  "title": "Confused?",
+  "text": "Confused?\nAs mentioned before, the verb conjugations maybe are the most difficult part of the Japanese grammar. While doing the last card I noticed that I still mix up some things myself, even after learning Japanese for a few years. For example:- kaku / kakanai (previous card): To write / not write\n- kau / kawanai (not yet introduced, but conjugated as \"tatakau\"): To buy / not buy\n\nMaybe you're happy to hear that ;).\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Confused?</strong></p><p>As mentioned before, the verb conjugations maybe are the most difficult part of the Japanese grammar. While doing the last card I noticed that I still mix up some things myself, even after learning Japanese for a few years. For example:<ul><li>kaku / kakanai (previous card): To write / not write</p><li>kau / kawanai (not yet introduced, but conjugated as \"tatakau\"): To buy / not buy</p></ul>Maybe you're happy to hear that ;).<br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600421480000,
+  "position": 154,
+  "title": "Past tense of verbs",
+  "text": "Past tense of verbs\nOn the next cards, you'll see some examples for the past tense of verbs. Here's the sloppy, minimalistic definition: In the past tense, verbs somehow end on some form of \"ta/た\". I will show you a few examples first and then a list with all possibilities.\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Past tense of verbs</strong></p><p>On the next cards, you'll see some examples for the past tense of verbs. Here's the sloppy, minimalistic definition: <strong>In the past tense, verbs somehow end on some form of \"ta/た\"</strong>. I will show you a few examples first and then a list with all possibilities.</p><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600421640000,
+  "position": 170,
+  "title": "There's an unknown word on a card!",
+  "text": "There's an unknown word on a card!\nWhen I repeat words, I usually don't include the meaning on the back again. If you forgot the meaning of a word, you can use the integrated dictionary of my Anki addon to look it up again (simply select text on the card). This only works on the pc version of Anki though. If you'd like to install the addon, go to: Tools -> Addons -> Get Addons and enter the following id: 2110939339.\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>There's an unknown word on a card!</strong></p><p style=\"text-align: left\">When I repeat words, I usually don't include the meaning on the back again. If you forgot the meaning of a word, you can use the integrated dictionary of my <a href=\"https://ankiweb.net/shared/info/2110939339\">Anki addon</a> to look it up again (simply select text on the card). This only works on the pc version of Anki though. If you'd like to install the addon, go to: Tools -> Addons -> Get Addons and enter the following id: 2110939339.</p><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://ankiweb.net/shared/info/2110939339"
+  ]
+ },
+ {
+  "nid": 1600422260000,
+  "position": 236,
+  "title": "Wrap up for directions:",
+  "text": "Wrap up for directions:\n- achira/acchi: distant from both speaker/listener\n- sochira/socchi: distant from speaker, close to listener\n- kochira/kocchi: close to speaker, far from listener",
+  "html": "<p style=\"text-align: center;\"><strong>Wrap up for directions:</strong></p><ul><li>achira/acchi: distant from both speaker/listener</li><li>sochira/socchi: distant from speaker, close to listener</li><li>kochira/kocchi: close to speaker, far from listener</li></ul>",
+  "links": []
+ },
+ {
+  "nid": 1600422310000,
+  "position": 241,
+  "title": "Particle combination summary",
+  "text": "Particle combination summary\n\n\"ni, he, de\" can be combined with \"ha, mo\" to set the target or context as topic, here's Tae Kim's explanation. Note that \"wo\" cannot be combined with these particles, so \"fish wo mo tabeta\" is wrong. You'd simply say: \"fish mo tabeta\".",
+  "html": "<p style=\"text-align: center;\"><strong>Particle combination summary</strong></p><br>\"ni, he, de\" can be combined with \"ha, mo\" to set the target or context as topic, here's <a href=\"http://www.guidetojapanese.org/learn/grammar/verbparticles#When_location_is_the_topic\">Tae Kim's explanation</a>. Note that \"wo\" cannot be combined with these particles, so \"fish wo mo tabeta\" is wrong. You'd simply say: \"fish mo tabeta\".<br>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/verbparticles#When_location_is_the_topic"
+  ]
+ },
+ {
+  "nid": 1600422330000,
+  "position": 244,
+  "title": "Japanese sentence order",
+  "text": "Japanese sentence order\n\nThe smallest Japanese sentence with proper grammar is a single verb (Tae Kim p. 61). Moreover, the verb in Japanese sentences always comes at the end (an exception not directly mentioned by Tae Kim in this context are sentence ending particles). Anything else before the verb may come in any particular order, because particles define the role of the words. Note that some orders sound more natural than others, but don't worry about that for now.\n\nMaybe you already noticed this pattern on the previous cards. However, we already saw some exceptions, for example: \"umi.\" This is a valid, colloquial statement (but not a proper sentence in terms of proper high Japanese grammar, Tae Kim covers that on p. 30 - state-of-being without \"da\"). Why am I writing this? Because it's useful to understand the next topic: Verb clauses (see next cards).",
+  "html": "<p style=\"text-align: center\"><strong>Japanese sentence order</strong></p><br>The smallest Japanese sentence with <em>proper</em> grammar is a single verb (Tae Kim p. 61). Moreover, the verb in Japanese sentences always comes at the end (an exception not directly mentioned by Tae Kim in this context are sentence ending particles). Anything else before the verb may come in any particular order, because particles define the role of the words. Note that some orders sound more natural than others, but don't worry about that for now.<br><br>Maybe you already noticed this pattern on the previous cards. However, we already saw some exceptions, for example: \"umi.\" This is a valid, colloquial statement (but not a proper sentence in terms of proper high Japanese grammar, Tae Kim covers that on p. 30 - state-of-being without \"da\"). Why am I writing this? Because it's useful to understand the next topic: Verb clauses (see next cards).<br>",
+  "links": []
+ },
+ {
+  "nid": 1600422470000,
+  "position": 258,
+  "title": "Instead of \"to\" you can also use \"ya\" for an incomplete list of nouns. It is mor",
+  "text": "Instead of \"to\" you can also use \"ya\" for an incomplete list of nouns. It is more vague than \"to\". It's not used so often, so I don't have a good example sentence yet. I'll add one later.",
+  "html": "Instead of \"to\" you can also use \"ya\" for an incomplete list of nouns. It is more vague than \"to\". It's not used so often, so I don't have a good example sentence yet. I'll add one later.<br>",
+  "links": []
+ },
+ {
+  "nid": 1600422920000,
+  "position": 304,
+  "title": "\"no/の\" as generic noun",
+  "text": "\"no/の\" as generic noun\n\nFrom the last cards you learned that the target noun of \"no\" can be omitted. In this case, \"no\" takes over the role of the noun itself (Tae Kim, p. 65). This means: We can treat verbs and adjectives as nouns by adding \"no/の\". The no-particle then becomes a generic noun, which can be treated just like a regular one. The use of this is a bit technical: It enables to apply noun-related particles (wo, ha, mo) to verbs and adjectives, some examples follow.",
+  "html": "<p style=\"text-align: center;\"><strong>\"no/の\" as generic noun</strong></p><br>From the last cards you learned that the target noun of \"no\" can be omitted. In this case, \"no\" takes over the role of the noun itself (Tae Kim, p. 65). This means: <strong>We can treat verbs and adjectives as nouns by adding \"no/の\"</strong>. The no-particle then becomes a generic noun, which can be treated just like a regular one. The use of this is a bit technical: It enables to apply noun-related particles (wo, ha, mo) to verbs and adjectives, some examples follow.<br>",
+  "links": []
+ },
+ {
+  "nid": 1600423380000,
+  "position": 350,
+  "title": "Congratulations, you finished Tae Kim's chapter \"Basic Grammar!\"",
+  "text": "Congratulations, you finished Tae Kim's chapter \"Basic Grammar!\"\n\nIn addition to the grammar, you learned 207 words, great!\n\nThe first version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on Ankiweb. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Congratulations, you finished Tae Kim's chapter \"Basic Grammar!\"</strong></p><br>In addition to the grammar, you learned <strong>207</strong> words, great!<br><br>The first version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on <a href=\"https://ankiweb.net/shared/info/911122782\">Ankiweb</a>. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://ankiweb.net/shared/info/911122782"
+  ]
+ },
+ {
+  "nid": 1600423390000,
+  "position": 351,
+  "title": "Don't be rude, part 2",
+  "text": "Don't be rude, part 2\n\nThe Japanese we learned so far is very informal and only used among friends or people who know each other well. Tae Kim calls it \"well and good if you're 5 years old\". Fortunately, everything we learned so far can be easily conjugated to 丁寧語/teineigo, a politer form of the language, which will be introduced now. Use it whenever you talk to strangers or people of higher social rank.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Don't be rude, part 2</strong></p><br>The Japanese we learned so far is very informal and only used among friends or people who know each other well. Tae Kim calls it \"well and good if you're 5 years old\". Fortunately, everything we learned so far can be easily conjugated to 丁寧語/teineigo, a politer form of the language, which will be introduced now. Use it whenever you talk to strangers or people of higher social rank.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600423400000,
+  "position": 352,
+  "title": "Sloppy teineigo summary",
+  "text": "Sloppy teineigo summary\n\nQuick reminder: So far you learned the following tenses/forms (verb example):\n- plain / present tense: taberu\n- negative plain / present tense: tabenai\n- past tense: tabeta\n- negative past tense: tabenakatta\n\nAll of these also exist for i-adjectives: oishii, oishikunai, oishikatta, oishikunakatta.\nAnd for na-adjectives by using: da, datta, janai, janakatta.\n\nIn the following, you'll learn to conjugate these to polite speech/teineigo, starting with plain verb examples. This might seem to be really complicated, but in the end it's dead simple:\n\nThe essence of teineigo revolves around using a form of the ending \"-masu\" for verbs and \"desu\" for the rest . I'll sum this up for you in more detail in about 110 cards. Hang in there!\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Sloppy teineigo summary</strong></p><br>Quick reminder: So far you learned the following tenses/forms (verb example):<br><ul><li>plain / present tense: taberu</li><li>negative plain / present tense: tabenai</li><li>past tense: tabeta</li><li>negative past tense: tabenakatta</li></ul><br>All of these also exist for i-adjectives: oishii, oishikunai, oishikatta, oishikunakatta.<br>And for na-adjectives by using: da, datta, janai, janakatta.<br><br>In the following, you'll learn to conjugate these to polite speech/teineigo, starting with plain verb examples. This might seem to be really complicated, but in the end it's dead simple:<br><br><strong>The essence of teineigo revolves around using a form of the ending \"-masu\" for verbs and \"desu\" for the rest </strong>. I'll sum this up for you in more detail in about 110 cards. Hang in there!<br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600423405000,
+  "position": 353,
+  "title": "Sloppy teineigo for verbs",
+  "text": "Sloppy teineigo for verbs\n\nA verb is conjugated to teineigo by somehow appending a form of \"-masu\" to it. Don't worry about the rules, an example for every verb type follows! (And a summary in the end).\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Sloppy teineigo for verbs</strong></p><br><strong>A verb is conjugated to teineigo by somehow appending a form of \"-masu\" to it. Don't worry about the rules, an example for every verb type follows! (And a summary in the end).</strong><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600423560000,
+  "position": 367,
+  "title": "Side note: Japanese has no whitespaces",
+  "text": "Side note: Japanese has no whitespaces\n\nDue to the distinctive nature of the Japanese writing system, there is no need for whitespaces. Especially the use of kanji characters enables to distinguish words from each other - provided that you learned them in the first place. In this course I added spaces between words to make the sentences easier to read. This is also something my anki addon does for you. Especially in the beginning I think that this makes learning much faster. Since the whitespaces are computed automatically however, there might be some errors as it's quite difficult to get this right. I manually edit the cards of this course, but I might overlook some errors. If the spacing looks weird for you, just remove all spaces in your mind ;).\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Side note: Japanese has no whitespaces</strong></p><br>Due to the distinctive nature of the Japanese writing system, there is no need for whitespaces. Especially the use of kanji characters enables to distinguish words from each other - provided that you learned them in the first place. In this course I added spaces between words to make the sentences easier to read. This is also something my anki addon does for you. Especially in the beginning I think that this makes learning much faster. Since the whitespaces are computed automatically however, there might be some errors as it's quite difficult to get this right. I manually edit the cards of this course, but I might overlook some errors. If the spacing looks weird for you, just remove all spaces in your mind ;).<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600423740000,
+  "position": 386,
+  "title": "Present tense teineigo wrapup",
+  "text": "Present tense teineigo wrapup\n\nBy now you saw a present tense teineigo example for each possible verb ending. Here's a summary:\n\n-su/す: hanasu -> hanashimasu\n-ku/く: kaku -> kakimasu\n-gu/ぐ: isogu -> isogimasu\n-mu/む: tanomu -> tanomimasu\n-nu/ぬ: shinu -> shinimasu\n-bu/ぶ: asobu -> asobimasu\n-ru/る: taberu -> tabemasu\n-tsu/つ matsu -> machimasu\n-u/う kau -> kaimasu\n\nAnd two irregulars:\nsuru -> shimasu\nkuru -> kimasu",
+  "html": "<p style=\"text-align: center;\"><strong>Present tense teineigo wrapup</strong></p><br>By now you saw a present tense teineigo example for each possible verb ending. Here's a summary:<br><br>-su/す: hanasu -> hanashimasu<br>-ku/く: kaku -> kakimasu<br>-gu/ぐ: isogu -> isogimasu<br>-mu/む: tanomu -> tanomimasu<br>-nu/ぬ: shinu -> shinimasu<br>-bu/ぶ: asobu -> asobimasu<br>-ru/る: taberu -> tabemasu<br>-tsu/つ matsu -> machimasu<br>-u/う kau -> kaimasu<br><br>And two irregulars:<br>suru -> shimasu<br>kuru -> kimasu<br>",
+  "links": []
+ },
+ {
+  "nid": 1600423750000,
+  "position": 387,
+  "title": "A tiny difference",
+  "text": "A tiny difference\n\nMaybe you already noticed a tiny difference or irregularity in the verb conjugation. We had two words ending on \"ru/る\", but the -masu form was constructed differently:\n- ru verb: taberu -> tabemasu (the entire \"ru/る\"-character was replaced by -masu, there's no \"r\"-part left)\n- -u verb: wakaru -> wakarimasu (there's an \"r\"-part left, i.e. instead of replacing \"ru/る\" with masu, the \"u\" turned into an \"imasu\"\n\nThe reason for this is simple: Japanese has two different verb types, ru verbs and -u verbs. Every word not ending on \"ru\" automatically is an -u verb, e.g. hanasu, kaku, etc. Unfortunately, some verbs ending on \"ru\" are also \"u\"-verbs, just as in this example. It's just something to keep in mind. I worried about these differences a lot, but you'll easily learn this from context. Japanese people also won't kill you, if you mix this up and say \"taberimasu\" instead of \"tabemasu\".\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>A tiny difference</strong></p><br>Maybe you already noticed a tiny difference or irregularity in the verb conjugation. We had two words ending on \"ru/る\", but the -masu form was constructed differently:<br><ul><li>ru verb: taberu -> tabemasu (the entire \"ru/る\"-character was replaced by -masu, there's no \"r\"-part left)</li><li>-u verb: wakaru -> wakarimasu (there's an \"r\"-part left, i.e. instead of replacing \"ru/る\" with masu, the \"u\" turned into an \"imasu\"</li></ul><br>The reason for this is simple: Japanese has two different verb types, ru verbs and -u verbs. Every word not ending on \"ru\" automatically is an -u verb, e.g. hanasu, kaku, etc. Unfortunately, some verbs ending on \"ru\" are also \"u\"-verbs, just as in this example. It's just something to keep in mind. I worried about these differences a lot, but you'll easily learn this from context. Japanese people also won't kill you, if you mix this up and say \"taberimasu\" instead of \"tabemasu\".<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600424000000,
+  "position": 412,
+  "title": "Polite/teineigo counjugation summary for verbs",
+  "text": "Polite/teineigo counjugation summary for verbs\n\nSo far you learned the following tenses/forms (verb example):\n- plain / present tense: append -masu (e.g. tabemasu)\n- negative plain / present tense: append -masen (e.g. tabemasen)\n- past tense: append -mashita (e.g. tabemashita)\n- negative past tense: append -masen deshita (e.g. tabemasen deshita)\n\nWhat you should remember is that these endings (-masu, -masen, -mashita, -masen deshita) make the sentence more polite. The way they are appended depends on the verb ending. I'd recommend to listen to a few more examples instead of or before trying to construct this yourself. The verb conjugations are by the way the only grammar related things I actively practiced a bit myself.\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Polite/teineigo counjugation summary for verbs</strong></p><br>So far you learned the following tenses/forms (verb example):<br><ul><li>plain / present tense: append -masu (e.g. tabemasu)</li><li>negative plain / present tense:  append -masen (e.g. tabemasen)</li><li>past tense:  append -mashita (e.g. tabemashita)</li><li>negative past tense:  append -masen deshita (e.g. tabemasen deshita)</li></ul><br><strong>What you should remember is that these endings (-masu, -masen, -mashita, -masen deshita) make the sentence more polite</strong>. The way they are appended depends on the verb ending. I'd recommend to listen to a few more examples instead of or before trying to construct this yourself. The verb conjugations are by the way the only grammar related things I actively practiced a bit myself.<br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600424010000,
+  "position": 413,
+  "title": "Politeness / teineigo for i-adjectives",
+  "text": "Politeness / teineigo for i-adjectives\n\nDo you remember the different forms for i-adjectives? They are made polite by appending \"desu\" (Tae Kim, p. 79). Here's an overview, more details on the next cards!\n- plain / present tense: oishii desu\n- negative plain / present tense: oishikunai desu\n- past tense: oishikatta desu\n- negative past tense: oishikunakatta desu\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Politeness / teineigo for i-adjectives</strong></p><br>Do you remember the different forms for i-adjectives? They are made polite by appending \"desu\" (<a href=\"http://www.guidetojapanese.org/learn/grammar/polite#Using_for_everything_else\">Tae Kim, p. 79</a>). Here's an overview, more details on the next cards!<br><ul><li>plain / present tense: oishii desu</li><li>negative plain / present tense: oishikunai desu</li><li>past tense: oishikatta desu</li><li>negative past tense: oishikunakatta desu</li></ul><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/polite#Using_for_everything_else"
+  ]
+ },
+ {
+  "nid": 1600424110000,
+  "position": 423,
+  "title": "Reality check: Politeness for i-adjectives",
+  "text": "Reality check: Politeness for i-adjectives\n\nTae Kim splits up teineigo into two rules: \"-masu for verbs\" and \"desu for the rest\". This is very pragmatic and very close to the actual use of Japanese in practice. The \"desu for everything else\"-part however is a bit diffuse and some textbooks introduce this differently. The grammatically correct way of creating the negative forms for i-adjectives (which is rather found in written materials) is:\n- negative plain / present tense: oishiku arimasen (instead of oishikunai desu)\n- negative past tense: oishiku arimasen deshita (instead of oishikunakatta desu)\n\nBoth sound rather formal, also refer to the reality check in Tae Kim's book. I'll add some examples on the following cards.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Reality check: Politeness for i-adjectives</strong></p><br>Tae Kim splits up teineigo into two rules: \"-masu for verbs\" and \"desu for the rest\". This is very pragmatic and very close to the actual use of Japanese in practice. The \"desu for everything else\"-part however is a bit diffuse and some textbooks introduce this differently. The grammatically correct way of creating the negative forms for i-adjectives (which is rather found in written materials) is:<br><ul><li>negative plain / present tense: oishiku arimasen (instead of oishikunai desu)</li><li>negative past tense: oishiku arimasen deshita (instead of oishikunakatta desu)</li></ul><br>Both sound rather formal, also refer to the reality check in Tae Kim's <a href=\"http://www.guidetojapanese.org/learn/grammar/polite#Using_for_everything_else\">book</a>. I'll add some examples on the following cards.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/polite#Using_for_everything_else"
+  ]
+ },
+ {
+  "nid": 1600424160000,
+  "position": 428,
+  "title": "Politeness / teineigo for na-adjectives and nouns",
+  "text": "Politeness / teineigo for na-adjectives and nouns\n\nDo you remember the different forms we had so far for na-adjectives and nouns? They can't be conjugated themselves, but the state-of-being was expressed using forms of \"da\", here's a quick summary using the na-adjective shizuka (quiet):\n- plain / present tense: shizuka da\n- negative plain / present tense: shizuka janai\n- past tense: shizuka datta\n- negative past tense: shizuka janakatta\n\nThese forms are made polite as follows (Tae Kim, p. 80):\n- plain / present tense: shizuka desu\n- negative plain / present tense: shizuka janai desu\n- past tense: shizuka deshita\n- negative past tense: shizuka janakatta desu\n\nIn the present tense, da is replaced by desu. In the past tense, deshita is used. It might be useful to keep in mind that \"desu\" and \"deshita\" are conjugations of \"da\", even though they are used differently. A separate card for explaining this in more detail follows soon, first some examples.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Politeness / teineigo for na-adjectives and nouns</strong></p><br>Do you remember the different forms we had so far for na-adjectives and nouns? They can't be conjugated themselves, but the state-of-being was expressed using forms of \"da\", here's a quick summary using the na-adjective shizuka (quiet):<br><ul><li>plain / present tense: shizuka da</li><li>negative plain / present tense: shizuka janai</li><li>past tense: shizuka datta</li><li>negative past tense: shizuka janakatta</li></ul><br>These forms are made polite as follows <a href=\"http://www.guidetojapanese.org/learn/grammar/polite#Using_for_everything_else\">(Tae Kim, p. 80)</a>:<br><ul><li>plain / present tense: shizuka <strong>desu</strong></li><li>negative plain / present tense: shizuka janai desu</li><li>past tense: shizuka <strong>deshita</strong></li><li>negative past tense: shizuka janakatta desu</li></ul><br>In the present tense, da is replaced by desu. In the past tense, deshita is used. It might be useful to keep in mind that \"desu\" and \"deshita\" are conjugations of \"da\", even though they are used differently. A separate card for explaining this in more detail follows soon, first some examples.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/polite#Using_for_everything_else"
+  ]
+ },
+ {
+  "nid": 1600424300000,
+  "position": 442,
+  "title": "da vs. desu",
+  "text": "da vs. desu\n\nAs already mentioned, \"desu\" is the teineigo conjugation of \"da\", but the use cases are a bit different. If you're interested why, have a look at these resources, the definitions are a bit technical, though:\n- Tae Kim: da is not desu\n- Tofugu: da vs. desu\n\nThis is just for the sake of completeness and definitely interesting to read, but as always, my recommendation is to just keep going for a while and trying to understand things by listening comprehension. Maybe bookmark these links and read them after you finished this course.",
+  "html": "<p style=\"text-align: center;\"><strong>da vs. desu</strong></p><br>As already mentioned, \"desu\" is the teineigo conjugation of \"da\", but the use cases are a bit different. If you're interested why, have a look at these resources, the definitions are a bit technical, though:<br><ul><li><a href=\"http://www.guidetojapanese.org/learn/grammar/polite#_is_NOT_the_same_as\">Tae Kim: da is not desu</a></li><li><a href=\"https://www.tofugu.com/japanese/da-vs-desu-in-real-life//\">Tofugu: da vs. desu</a></li></ul><br>This is just for the sake of completeness and definitely interesting to read, but as always, my recommendation is to just keep going for a while and trying to understand things by listening comprehension. Maybe bookmark these links and read them after you finished this course.<br>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/polite#_is_NOT_the_same_as",
+   "https://www.tofugu.com/japanese/da-vs-desu-in-real-life//"
+  ]
+ },
+ {
+  "nid": 1600424450000,
+  "position": 457,
+  "title": "Reality check: Politeness for na-adjectives and nouns",
+  "text": "Reality check: Politeness for na-adjectives and nouns\n\nTae Kim splits up teineigo into two rules: \"-masu for verbs\" and \"desu for the rest\". Similar to the i-adjective case, the \"desu for everything else\"-part is a bit diffuse for na-adjectives and nouns and some textbooks introduce this differently. The grammatically correct way of creating the negative state-of-being for na-adjectives and nouns is:\n- negative plain / present tense: shizuka de ha arimasen or shizuka ja arimasen (instead of shizuka janai desu)\n- negative past tense: shizuka de ha arimasen deshita or shizuka ja arimasen deshita (instead of shizuka janakatta desu)\n\nBoth sound rather formal, also refer to the reality check in Tae Kim's book. I'll add some examples on the following cards.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Reality check: Politeness for na-adjectives and nouns</strong></p><br>Tae Kim splits up teineigo into two rules: \"-masu for verbs\" and \"desu for the rest\". Similar to the i-adjective case, the \"desu for everything else\"-part is a bit diffuse for na-adjectives and nouns and some textbooks introduce this differently. The grammatically correct way of creating the negative state-of-being for na-adjectives and nouns is:<br><ul><li>negative plain / present tense: shizuka de ha arimasen <strong>or</strong> shizuka ja arimasen (instead of shizuka janai desu) </li><li>negative past tense: shizuka de ha arimasen deshita <strong>or</strong> shizuka ja arimasen deshita (instead of shizuka janakatta desu) </li></ul><br>Both sound rather formal, also refer to the reality check in Tae Kim's <a href=\"http://www.guidetojapanese.org/learn/grammar/polite#Using_for_everything_else\">book</a>. I'll add some examples on the following cards.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/polite#Using_for_everything_else"
+  ]
+ },
+ {
+  "nid": 1600424500000,
+  "position": 462,
+  "title": "WTF now I'm confused",
+  "text": "WTF now I'm confused\n\nMe too, I hope that puts you at ease. It took me a while to put this information together in a (hopefully) easily understandable way. Just in case you're worrying now: I wasn't aware of all fine details myself anymore, it's not too important in practice and at least for listening comprehension, the takeaway message is really simple: As a rule of thumb, having one of the following forms in a sentence makes it more polite:\n- -masu\n- -masen\n- -mashita\n- desu\n- deshita\n\nI strongly recommend to just continue with this information in the back of your mind. Maybe read some of the resources linked on the cards. After you finished this course and continued learning for a while this will make a lot of sense. The interesting part is, that this understanding somehow comes automatically, even though you don't understand every detail and nuance in the first place.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>WTF now I'm confused</strong></p><br>Me too, I hope that puts you at ease. It took me a while to put this information together in a (hopefully) easily understandable way. Just in case you're worrying now: I wasn't aware of all fine details myself anymore, it's not too important in practice and at least for listening comprehension, the takeaway message is really simple: As a rule of thumb, having one of the following forms in a sentence makes it more polite:<br><ul><li>-masu</li><li>-masen</li><li>-mashita</li><li>desu</li><li>deshita</li></ul><br>I <em>strongly</em> recommend to just continue with this information in the back of your mind. Maybe read some of the resources linked on the cards. After you finished this course and continued learning for a while this will make a lot of sense. The interesting part is, that this understanding somehow comes automatically, even though you don't understand every detail and nuance in the first place.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600424710000,
+  "position": 483,
+  "title": "Polite versions of nouns",
+  "text": "Polite versions of nouns\n\nI already mentioned that more polite forms exist for some nouns. Teaching all of these is beyond the scope of this course, but I think it's useful to know this. I will show some on the next cards.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Polite versions of nouns</strong></p><br>I already mentioned that more polite forms exist for some nouns. Teaching all of these is beyond the scope of this course, but I think it's useful to know this. I will show some on the next cards.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600424830000,
+  "position": 496,
+  "title": "The verb stem",
+  "text": "The verb stem\n\nIn his book, Tae Kim first introduces the verb stem and then uses it to construct the teineigo conjugations. This is technically correct, but I still found it easier to do it vice versa, because the teineigo forms are so common: First, listen to and get used to some teineigo forms. Removing the \"-masu\" part then yields the stem. Read Tae Kim's more detailed explanation on p. 76 or here. I will explain the use of the stem on the following cards. In short, the verb stem can be treated like a noun, but in a very limited and special way.",
+  "html": "<p style=\"text-align: center;\"><strong>The verb stem</strong></p><br>In his book, Tae Kim first introduces the verb stem and then uses it to construct the teineigo conjugations. This is technically correct, but I still found it easier to do it vice versa, because the teineigo forms are so common: First, listen to and get used to some teineigo forms. Removing the \"-masu\" part then yields the stem. Read Tae Kim's more detailed explanation on p. 76 or <a href=\"http://www.guidetojapanese.org/learn/grammar/polite#The_stem_of_verbs\">here</a>. I will explain the use of the stem on the following cards. In short, the verb stem can be treated like a noun, but in a very limited and special way.<br>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/polite#The_stem_of_verbs"
+  ]
+ },
+ {
+  "nid": 1600425020000,
+  "position": 515,
+  "title": "Sloppy learning is fast learning",
+  "text": "Sloppy learning is fast learning\n\nI used to be a thorough learner who wanted to understand and do everything right in the first place. This slowed me down like nothing else. One of my most important insights is this: Whenever you grasp the meaning of a sentence or of what's being said even though there are some words or grammar parts you don't understand you already succeeded and should celebrate this. It's not important to understand every detail and it's not important to get everything right in the first place. If you go through your material in a sloppy way and even entirely skip parts that are too complicated or boring, you will be a lot faster. It's a little bit similar to Jeff Brown's recommendation of \"just to browse grammar\" in the video I linked on one of the first cards. I'll stress this over and over again and will give you some more hints on how to make things as easy as possible towards the end of this course.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Sloppy learning is fast learning</strong></p><br>I used to be a thorough learner who wanted to understand and do everything right in the first place. This slowed me down like nothing else. One of my most important insights is this: Whenever you grasp the meaning of a sentence or of what's being said even though there are some words or grammar parts you don't understand you already succeeded and should celebrate this. It's not important to understand every detail and it's not important to get everything right in the first place. If you go through your material in a sloppy way and even entirely skip parts that are too complicated or boring, you will be a <em>lot</em> faster. It's a little bit similar to Jeff Brown's recommendation of \"just to browse grammar\" in the video I linked on one of the first cards. I'll stress this over and over again and will give you some more hints on how to make things as easy as possible towards the end of this course.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600425280000,
+  "position": 541,
+  "title": "Referring to yourself",
+  "text": "Referring to yourself\n\nSo far, you already learned several words for referring to yourself. I won't cover them again in detail, have a look at Tae Kim's section on this. Just keep in mind two things:\n- \"I\" is usually omitted when it is clear who's being talked about.\n- \"ore\" sounds rough and very casual (you'll hear this a lot in anime).\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Referring to yourself</strong></p><br>So far, you already learned several words for referring to yourself. I won't cover them again in detail, have a look at <a href=\"http://www.guidetojapanese.org/learn/grammar/people#Referring_to_yourself\">Tae Kim's section</a> on this. Just keep in mind two things:<br><ul><li>\"I\" is usually omitted when it is clear who's being talked about.</li><li>\"ore\" sounds rough and very casual (you'll hear this a lot in anime).</li></ul><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/people#Referring_to_yourself"
+  ]
+ },
+ {
+  "nid": 1600425290000,
+  "position": 542,
+  "title": "Referring to others",
+  "text": "Referring to others\n\nMaybe you already noticed that there was no word for \"you\" or \"he/she/it\" on the last ~500 cards. Such words do exist in Japanese, but they are used differently, we'll have a look at this in the following. Tae Kim gives a very nice summary on the general rules of referring to others, ordered by politeness:\n- Using the person’s title or last name with the appropriate suffix\n- Not using anything at all\n- Using some form of \"you\"\n\nHe also writes: \"By the time you get to three, you’re dangerously in the area of being rude\". Have a look at the following cards!",
+  "html": "<p style=\"text-align: center;\"><strong>Referring to others</strong></p><br>Maybe you already noticed that there was no word for \"you\" or \"he/she/it\" on the last ~500 cards. Such words do exist in Japanese, but they are used differently, we'll have a look at this in the following. Tae Kim gives a very nice summary on the general rules of referring to others, ordered by politeness:<br><ol><li>Using the person’s title or last name with the appropriate suffix</li><li>Not using anything at all</li><li>Using some form of \"you\"</li></ol><br>He also <a href=\"http://www.guidetojapanese.org/learn/grammar/people#Referring_to_others_with_8220you8221\">writes</a>: \"By the time you get to three, you’re dangerously in the area of being rude\". Have a look at the following cards!<br>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/people#Referring_to_others_with_8220you8221"
+  ]
+ },
+ {
+  "nid": 1600426070000,
+  "position": 620,
+  "title": "Congratulations, you finished 30% of Tae Kim's book",
+  "text": "Congratulations, you finished 30% of Tae Kim's book\n\nIn addition to the grammar, you learned 343 words, great!\n\nThe second version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on Ankiweb. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Congratulations, you finished 30% of Tae Kim's book</strong></p><br>In addition to the grammar, you learned <strong>343</strong> words, great!<br><br>The second version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on <a href=\"https://ankiweb.net/shared/info/911122782\">Ankiweb</a>. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://ankiweb.net/shared/info/911122782"
+  ]
+ },
+ {
+  "nid": 1600427020000,
+  "position": 641,
+  "title": "Question words",
+  "text": "Question words\n\nWe already had a few question words before, I just added the missing ones. Here's a summary:\n- dare: who\n- nani/nan: what\n- itsu: when\n- doko: where\n- dore: which\n- ikura: how much\n- dou: how, in what way\n- nande: why\n- doushite: why\n- naze: why (slightly more formal than \"nande\" and rather direct)\n\nIf you're interested in the three different words for \"why\", read on here. However, as always: Listen to more examples and don't worry about how to use these words yourself for now!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Question words</strong></p><br>We already had a few question words before, I just added the missing ones. Here's a summary:<br><ul><li>dare: who</li><li>nani/nan: what</li><li>itsu: when</li><li>doko: where</li><li>dore: which</li><li>ikura: how much</li><li>dou: how, in what way</li><li>nande: why</li><li>doushite: why</li><li>naze: why (slightly more formal than \"nande\" and rather direct)</li></ul><br>If you're interested in the three different words for \"why\", read on <a href=\"https://japanese.stackexchange.com/questions/2673/whats-the-difference-between-%E3%81%AA%E3%81%9C-%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6-and-%E3%81%AA%E3%82%93%E3%81%A7-when-meaning-why\">here</a>. However, as always: Listen to more examples and don't worry about how to use these words yourself for now!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://japanese.stackexchange.com/questions/2673/whats-the-difference-between-%E3%81%AA%E3%81%9C-%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6-and-%E3%81%AA%E3%82%93%E3%81%A7-when-meaning-why"
+  ]
+ },
+ {
+  "nid": 1600427090000,
+  "position": 648,
+  "title": "Question words + \"ka\"",
+  "text": "Question words + \"ka\"\n\nThe particle \"ka\" can be appended to some of the question words. This adds the meaning \"some\" in the following sense:\n- dare: who -> dareka: someone\n- nani: what -> nanika: something\n- itsu: when -> itsuka: sometime\n- doko: where -> dokoka: somewhere\n- dore: which -> doreka: something in the sense: One out of many\n\nHave a look at the following cards, an example for each one follows.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Question words + \"ka\"</strong></p><br>The particle \"ka\" can be appended to some of the question words. This adds the meaning \"some\" in the following sense:<br><ul><li>dare: who -> dareka: someone</li><li>nani: what -> nanika: something</li><li>itsu: when -> itsuka: sometime</li><li>doko: where -> dokoka: somewhere</li><li>dore: which -> doreka: something in the sense: One out of many</li></ul><br>Have a look at the following cards, an example for each one follows.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600427260000,
+  "position": 665,
+  "title": "Question words + \"mo\"",
+  "text": "Question words + \"mo\"\n\nThe particle \"mo\" can be appended to some of the question words. This adds the meaning of either \"all\" in a positive or \"nothing\" in a negative sentence. It's a little inconsistent, but as always, many examples follow. Here's the summary in advance:\n- dare: who -> daremo: everybody / noone (in negative sentence)\n- nani: what -> nanimo: nothing (in negative sentences, rarely used in positive ones)\n- itsu: when -> itsumo: always / never (in negative sentence, but rarely used this way)\n- doko: where -> dokomo: everywhere / nowhere (in negative sentence)\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Question words + \"mo\"</strong></p><br>The particle \"mo\" can be appended to some of the question words. This adds the meaning of either \"all\" in a positive or \"nothing\" in a negative sentence. It's a little inconsistent, but as always, many examples follow. Here's the summary in advance:<br><ul><li>dare: who -> daremo: everybody / noone (in negative sentence)</li><li>nani: what -> nanimo: nothing (in negative sentences, rarely used in positive ones)</li><li>itsu: when -> itsumo: always / never (in negative sentence, but rarely used this way)</li><li>doko: where -> dokomo: everywhere / nowhere (in negative sentence)</li></ul><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600427640000,
+  "position": 707,
+  "title": "Question words + \"demo\"",
+  "text": "Question words + \"demo\"\n\nThe particle \"demo\" can be appended to some of the question words. This adds the meaning of arbitrariness in the sence of \"whatever\" or \"whoever\":\n- dare: who -> daredemo: anyone / whoever\n- nani: what -> nandemo: anything / whatever\n- itsu: when -> itsudemo: at any time\n- doko: where -> dokodemo: anywhere / wherever\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Question words + \"demo\"</strong></p><br>The particle \"demo\" can be appended to some of the question words. This adds the meaning of arbitrariness in the sence of \"whatever\" or \"whoever\":<br><ul><li>dare: who -> daredemo: anyone / whoever</li><li>nani: what -> nandemo: anything / whatever</li><li>itsu: when -> itsudemo: at any time</li><li>doko: where -> dokodemo: anywhere / wherever</li></ul><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600427770000,
+  "position": 720,
+  "title": "Summary question words + particle",
+  "text": "Summary question words + particle\n\nThe particles ka, mo and demo can be attached to some question words to add the following meaning:\n- ka: \"some\", e.g. dareka: someone (specific)\n- mo: \"all\" or \"nothing\", e.g. daremo: everybody/nobody (in negative sentence)\n- demo: arbitrariness, e.g. daredemo: whoever\n\nThere's a certain overlap in the meaning, but the essence boils down to the above. My usual recommendation applies, try to understand some more example sentences before you start to wrap your head around the rules only!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Summary question words + particle</strong></p><br>The particles ka, mo and demo can be attached to some question words to add the following meaning:<br><ul><li>ka: \"some\", e.g. dareka: someone (specific)</li><li>mo: \"all\" or \"nothing\", e.g. daremo: everybody/nobody (in negative sentence)</li><li>demo: arbitrariness, e.g. daredemo: whoever</li></ul><br>There's a certain overlap in the meaning, but the essence boils down to the above. My usual recommendation applies, try to understand some more example sentences before you start to wrap your head around the rules only!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600428210000,
+  "position": 764,
+  "title": "Congratulations, you finished 35% of Tae Kim's book",
+  "text": "Congratulations, you finished 35% of Tae Kim's book\n\nIn addition to the grammar, you learned 401 words, great!\n\nThe third version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on Ankiweb. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Congratulations, you finished 35% of Tae Kim's book</strong></p><br>In addition to the grammar, you learned <strong>401</strong> words, great!<br><br>The third version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on <a href=\"https://ankiweb.net/shared/info/911122782\">Ankiweb</a>. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://ankiweb.net/shared/info/911122782"
+  ]
+ },
+ {
+  "nid": 1600428230000,
+  "position": 765,
+  "title": "Compound sentences",
+  "text": "Compound sentences\n\nIn the following we'll have a look at how sentences are linked together to express multiple actions or states. Consider for example the following easy sentences:\n- It is cold. It is dark. It is scary.\n- I run. I eat. I sleep.\n- It is dark. It is not scary.\n\nThis sounds pretty weird, doesn't it? You'd rather say:\n- It's cold, dark and scary.\n- I run, eat and sleep.\n- It's dark but not scary.\n\nThe same is possible in Japanese. Most of this revolves around the \"te-form\", which is introduced next.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Compound sentences</strong></p><br>In the following we'll have a look at how sentences are linked together to express multiple actions or states. Consider for example the following easy sentences:<br><ul><li>It is cold. It is dark. It is scary. </li><li>I run. I eat. I sleep.</li><li>It is dark. It is not scary.</li></ul><br>This sounds pretty weird, doesn't it? You'd rather say:<br><ul><li>It's cold, dark and scary. </li><li>I run, eat and sleep.</li><li>It's dark but not scary.</li></ul><br>The same is possible in Japanese. Most of this revolves around the \"te-form\", which is introduced next.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600429070000,
+  "position": 849,
+  "title": "Remark",
+  "text": "Remark\n\nsonnani / konnani / annani are actually sonna / konna / anna + ni, but I found it easier to remember them as one word. I spell them together throughout this course, just like some other words. In the end, Japanese has no whitespaces anyways.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Remark</strong></p><br>sonnani / konnani / annani are actually sonna / konna / anna + ni, but I found it easier to remember them as one word. I spell them together throughout this course, just like some other words. In the end, Japanese has no whitespaces anyways.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600429860000,
+  "position": 931,
+  "title": "Summary: Compound Sentences",
+  "text": "Summary: Compound Sentences\n\nIn chapter 4.4, Tae Kim introduced several possibilities to connect sentences, here's a summary:\n- -te form acts as \"and\": amakute umai zo - [it] is sweet and tasty.\n- kara gives a reason as [reason] kara [result]: tsukareta kara watashi ha neru zo - because I'm tired I go to sleep.\n- node gives a reason: Almost the same as kara, slightly softer and slightly more polite.\n- noni means \"despite\" or \"even though\" and is used like this: [sentence 1] noni [sentence 2] - despite / even though [sentence 1], [sentence 2] happened.\n- kedo means \"but\", indicates a contradiction: yoku wakaranai kedo zenzen ii yo - I don't understand well, but it's ok.\n- ga: Same as \"kedo\", but slightly more polite. Usually used with -masu forms.\n- shi: Gives an incomplete list of reasons for something.\n- -tari suru: Gives an incomplete list of actions or states, which might also serve as reasons.",
+  "html": "<p style=\"text-align: center;\"><strong>Summary: Compound Sentences</strong></p><br>In chapter 4.4, Tae Kim introduced several possibilities to connect sentences, here's a summary:<br><ul><li><strong>-te form</strong> acts as \"and\": amakute umai zo - [it] is sweet and tasty.</li><li><strong>kara</strong> gives a reason as [reason] kara [result]: tsukareta kara watashi ha neru zo - because I'm tired I go to sleep.</li><li><strong>node</strong> gives a reason: Almost the same as kara, slightly softer and slightly more polite.</li><li><strong>noni</strong> means \"despite\" or \"even though\" and is used like this: [sentence 1] noni [sentence 2] - despite / even though [sentence 1], [sentence 2] happened.</li><li><strong>kedo</strong> means \"but\", indicates a contradiction: yoku wakaranai kedo zenzen ii yo - I don't understand well, but it's ok.</li><li><strong>ga</strong>: Same as \"kedo\", but slightly more polite. Usually used with -masu forms.</li><li><strong>shi</strong>: Gives an incomplete list of reasons for something.</li><li><strong>-tari suru</strong>: Gives an incomplete list of actions or states, which might also serve as reasons.</li></ul>",
+  "links": []
+ },
+ {
+  "nid": 1600429990000,
+  "position": 944,
+  "title": "Additions to the question marker \"ka\"",
+  "text": "Additions to the question marker \"ka\"\n\nAs you might remember from previous examples, questions in Japanese often don't require the question marker. Just from the intonation, you usually hear, if somebody asks a question. This is particularly the case for casual Japanese, where the question marker is usually omitted. It's important to keep this in mind, Tae Kim explains this here.",
+  "html": "<p style=\"text-align: center;\"><strong>Additions to the question marker \"ka\"</strong></p><br>As you might remember from previous examples, questions in Japanese often don't require the question marker. Just from the intonation, you usually hear, if somebody asks a question. This is particularly the case for casual Japanese, where the question marker is usually omitted. It's important to keep this in mind, Tae Kim explains this <a href=\"http://www.guidetojapanese.org/learn/grammar/question#The_question_marker_in_casual_speech\">here</a>.<br>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/question#The_question_marker_in_casual_speech"
+  ]
+ },
+ {
+  "nid": 1600430000000,
+  "position": 945,
+  "title": "The question marker \"ka\" in relative clauses",
+  "text": "The question marker \"ka\" in relative clauses\n\nA relative clause ending on \"ka\" allows you to talk about a certain question, this will be introduced on the following cards.\n\nRemark: Tae Kim and most other websites introduce relative clauses mostly as sentences that act as adjectives in order to describe nouns. This is, however, often not the case for relative clauses ending on \"ka\". Here, the relative clause usually does not describe a noun, but the sentence continues with a verb. Don't worry if this sounds overly technical, just keep in mind, what a relative clause usually is: A subsentence embedded into a larger sentence.\n\nDon't worry about this technical grammar fuss, the following sentence are quite easy (I hope)!",
+  "html": "<p style=\"text-align: center;\"><strong>The question marker \"ka\" in relative clauses</strong></p><br>A relative clause ending on \"ka\" allows you to talk about a certain question, this will be introduced on the following cards.<br><br>Remark: Tae Kim and most other websites introduce relative clauses mostly as sentences that act as adjectives in order to describe <em>nouns</em>. This is, however, often not the case for relative clauses ending on \"ka\". Here, the relative clause usually does not describe a noun, but the sentence continues with a verb. Don't worry if this sounds overly technical, just keep in mind, what a relative clause usually is: <strong>A subsentence embedded into a larger sentence.</strong><br><br>Don't worry about this technical grammar fuss, the following sentence are quite easy (I hope)!<br>",
+  "links": []
+ },
+ {
+  "nid": 1600430150000,
+  "position": 960,
+  "title": "Other uses of the -te form",
+  "text": "Other uses of the -te form\n\nRefresher: The -te form is built for verbs by taking the past tense and replacing the last ta by te (or da by de), e.g. taberu -> tabeta -> tabete. We already learned that it can be used to chain multiple verbs (and sentences) together, meaning \"and\" (e.g. I eat, drink and sleep). Read more on this here.\n\nFor verbs, the -te form has many other uses we will check now, the pattern is always the same: Take some verb, put it to the -te form and attach another (special) verb. I am calling the attached verbs \"special\" here, because these constructs have special use cases. Learn more on the following cards. The -te form can be used for complex constructs, so I'll add a lot of examples to get you prepared. The most complicated ones will be added at the very end of this course - I found these to be one of the most difficult parts of the Japanese language.",
+  "html": "<p style=\"text-align: center;\"><strong>Other uses of the -te form</strong></p><br>Refresher: The -te form is built for verbs by taking the past tense and replacing the last ta by te (or da by de), e.g. taberu -> tabeta -> tabete. We already learned that it can be used to chain multiple verbs (and sentences) together, meaning \"and\" (e.g. I eat, drink and sleep). Read more on this <a href=\"http://www.guidetojapanese.org/learn/grammar/compound#Expressing_a_sequence_of_verbs_with_the_te-form\">here</a>.<br><br>For verbs, the -te form has many other uses we will check now, the pattern is always the same: <strong>Take some verb, put it to the -te form and attach another (special) verb</strong>. I am calling the attached verbs \"special\" here, because these constructs have special use cases. Learn more on the following cards. The -te form can be used for complex constructs, so I'll add a lot of examples to get you prepared. The most complicated ones will be added at the very end of this course - I found these to be one of the most difficult parts of the Japanese language.<br>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/compound#Expressing_a_sequence_of_verbs_with_the_te-form"
+  ]
+ },
+ {
+  "nid": 1600431210000,
+  "position": 1066,
+  "title": "-te form with motion verbs",
+  "text": "-te form with motion verbs\n\nThe te-form may also be used with the motion verbs iku (to go) and kuru (to come) to indicate the direction of an action (towards or away from something). The rules here are simple:\n\n- -te iku: directs the verb in te-form away from a place, persons or a point in time (for example from the present to the future).\n- -te kuru: directs the verb in te-form towards a place, persons or a point in time (for example from the past to the present).\n\nHere are two examples in advance, many more follow:\n\n- \"motsu - to hold, carry, take\": \"motte iku\" means to take something away and \"motte kuru\" means to bring something along.\n- \"kaeru - to return, to go home\": \"kaette iku\" means to go home (away from some place) and \"kaette kuru\" to return home.",
+  "html": "<p style=\"text-align: center;\"><strong>-te form with motion verbs</strong></p><br>The te-form may also be used with the motion verbs iku (to go) and kuru (to come) to indicate the direction of an action (towards or away from something). The rules here are simple:<br><br><ul><li>-te iku: directs the verb in te-form <em>away</em> from a place, persons or a point in time (for example from the present to the future).</li><li>-te kuru: directs the verb in te-form <em>towards</em> a place, persons or a point in time (for example from the past to the present).</li></ul><br>Here are two examples in advance, many more follow:<br><br><ul><li>\"motsu - to hold, carry, take\": \"motte iku\" means to take something away and \"motte kuru\" means to bring something along.</li><li>\"kaeru - to return, to go home\": \"kaette iku\" means to go home (away from some place) and \"kaette kuru\" to return home.</li></ul>",
+  "links": []
+ },
+ {
+  "nid": 1600431500000,
+  "position": 1095,
+  "title": "Unintended actions",
+  "text": "Unintended actions\n\nIf combined with the verb \"shimau\", the -te form expresses unintended actions, e.g. \"tabete shimau - I ate [it] by accident\". The result of such an action often is unsatisfactory, but not always. Here are the possible meanings of -te shimau constructs using \"tabete shimau\" as example:\n\n- I ate [it] by accident (e.g. an insect while cycling ;))\n- I couldn't help but eat it (e.g. the eating happended sort of automatically because the food was so tasty).\n- I ate it and the result is bad (e.g. you ate someone else's food)\n\nThis is confusing in the beginning because the meaning of the last point sort of differs from the first. However, that's usually easily clear from context. Again, \"shimau\" most of the time occurs together with another verb in -te form or as \"shimatta - [I] messed [something] up\", so I don't include the definitions from the dictionary.",
+  "html": "<p style=\"text-align: center;\"><strong>Unintended actions</strong></p><br>If combined with the verb \"shimau\", the -te form expresses unintended actions, e.g. \"tabete shimau - I ate [it] by accident\". The result of such an action often is unsatisfactory, but not always. Here are the possible meanings of -te shimau constructs using \"tabete shimau\" as example:<br><br><ul><li>I ate [it] by accident (e.g. an insect while cycling ;))</li><li>I couldn't help but eat it (e.g. the eating happended sort of automatically because the food was so tasty).</li><li>I ate it and the result is bad (e.g. you ate someone else's food)</li></ul><br>This is confusing in the beginning because the meaning of the last point sort of differs from the first. However, that's usually easily clear from context. Again, \"shimau\" most of the time occurs together with another verb in -te form or as \"shimatta - [I] messed [something] up\", so I don't include the definitions from the dictionary.<br>",
+  "links": []
+ },
+ {
+  "nid": 1600431830000,
+  "position": 1133,
+  "title": "Summay: -te form with special verbs",
+  "text": "Summay: -te form with special verbs\n\n- -te iru: Indicates continuous action or state, similar to the English \"-ing\" form, e.g. tabete iru - I am eating.\n- -te aru: Indicates the resulting state after an action completed (not the ongoing action itself), e.g. kaite aru - something was written (and now the text is there).\n- -te oku: Indicates that something is done as preparation for the future or with the future in mind, e.g. tabete oku - I eat a lot such that I'll not be hungry again soon.\n- -te miru: To try something out in the sense: “To give something a try and see how it goes” (usually not: to try hard). E.g. tabete miru - I try to eat this.\n- -te iku: \"iku\" directs the verb in te-form away from a place, persons or a point in time (for example from the present to the future). E.g. tabete iku - I go out to eat.\n- -te kuru \"kuru\" directs the verb in te-form towards a place, persons or a point in time (for example from the present to the future). E.g. tabete kuru - I come to eat.\n- -te shimau: Indicates that the verb in -te form was done unintentionally, often with bad or unsatisfactory result.\n\nI will pick these forms up again at the very end of this course. They itself can be conjugated to quite complicated constructions. Gaining an intuitive understanding of this was one of the most difficult things for me.",
+  "html": "<p style=\"text-align: center;\"><strong>Summay: -te form with special verbs</strong></p><br><ul><li><strong>-te iru:</strong> Indicates continuous action or state, similar to the English \"-ing\" form, e.g. tabete iru - I am eating.</li><li><strong>-te aru:</strong> Indicates the resulting state after an action completed (not the ongoing action itself), e.g. kaite aru - something was written (and now the text is there).</li><li><strong>-te oku:</strong> Indicates that something is done as preparation for the future or with the future in mind, e.g. tabete oku - I eat a lot such that I'll not be hungry again soon.</li><li><strong>-te miru:</strong> To try something out in the sense: “To give something a try and see how it goes” (usually not: to try hard). E.g. tabete miru - I try to eat this.</li><li><strong>-te iku: </strong> \"iku\" directs the verb in te-form <em>away</em> from a place, persons or a point in time (for example from the present to the future). E.g. tabete iku - I go out to eat.</li><li><strong>-te kuru</strong> \"kuru\" directs the verb in te-form <em>towards</em> a place, persons or a point in time (for example from the present to the future). E.g. tabete kuru - I come to eat.</li><li><strong>-te shimau</strong>: Indicates that the verb in -te form was done unintentionally, often with bad or unsatisfactory result.</li></ul><br>I will pick these forms up again at the very end of this course. They itself can be conjugated to quite complicated constructions. Gaining an intuitive understanding of this was one of the most difficult things for me.<br>",
+  "links": []
+ },
+ {
+  "nid": 1600431840000,
+  "position": 1134,
+  "title": "Congratulations, you finished 50% of Tae Kim's book",
+  "text": "Congratulations, you finished 50% of Tae Kim's book\n\nIn addition to the grammar, you learned 542 words, great!\n\nThe fourth version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on Ankiweb. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Congratulations, you finished 50% of Tae Kim's book</strong></p><br>In addition to the grammar, you learned <strong>542</strong> words, great!<br><br>The fourth version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on <a href=\"https://ankiweb.net/shared/info/911122782\">Ankiweb</a>. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://ankiweb.net/shared/info/911122782"
+  ]
+ },
+ {
+  "nid": 1600431850000,
+  "position": 1135,
+  "title": "Potential form",
+  "text": "Potential form\n\nNext, we'll have a look at how to express the ability to do or to perform a certain action. In Japanese, this is done by conjugating the verb. Quick recap: Japanese has two different verb types:\n- -ru verbs:They always end on \"ru/る\", e.g. taberu.\n- \"u\"-verbs:They end on any other u-vowel character: \"u/う (kau), ku/く (kaku), su/す (hanasu), tsu/つ (matsu), nu/ぬ (shinu), bu/ぶ (yobu), mu/む (sumu)\". Sometimes, they also end on \"ru/る\", e.g. wakaru.\n\nKeeping this in mind might help a bit on the following cards. Key message for now is: Don't worry about the -u verbs ending on ru!",
+  "html": "<p style=\"text-align: center;\"><strong>Potential form</strong></p><br>Next, we'll have a look at how to express the ability to do or to perform a certain action. In Japanese, this is done by conjugating the verb. Quick recap: Japanese has two different verb types: <br><ul><li><strong>-ru verbs:</strong>They always end on \"ru/る\", e.g. taberu.</li><li><strong>\"u\"-verbs:</strong>They end on any other u-vowel character: \"u/う (kau), ku/く (kaku), su/す (hanasu), tsu/つ (matsu), nu/ぬ (shinu), bu/ぶ (yobu), mu/む (sumu)\". <em>Sometimes</em>, they also end on \"ru/る\", e.g. wakaru.</li></ul><br>Keeping this in mind might help a bit on the following cards. Key message for now is: Don't worry about the -u verbs ending on ru!<br>",
+  "links": []
+ },
+ {
+  "nid": 1600432125000,
+  "position": 1163,
+  "title": "Bonus content: Video recommendations",
+  "text": "Bonus content: Video recommendations\n\nHere are some videos with (hopefully) comprehensible content as bonus material, read more about this here. More videos after about 500 cards.\n\nVideo 1: Another self-introduction - ...from the same channel as he previous one\n- Word hints: jiko shoukai - self introduction\n\nVideo 2: On the bus - Word hints: basu - bus, botan - button\n- Grammar hints: a verb ending on -tai means \"want to\". In this vid, \"oritai - want to get off\". Don't worry, this is covered later!\n\nVideo 3: Buying some drinks - Word hints: ajia - asia, supa - supermarket\n\nVideo 4: At the convenience store - This is from the famous podcast \"nihongo con teppei\"\n- Video contains a few numbers & dates - ignore them for now. This is covered in a separate deck, linked later in this course\n- Grammar hint: you ni - in order to\n\nJust the links for copy/pasting:\nhttps://youtu.be/ha4GcUYYAns\nhttps://youtu.be/nbMQJgYtGZ8\nhttps://youtu.be/aE200bPtCl0\nhttps://youtu.be/6y6ehT6gTO4\n\nAre these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Bonus content: Video recommendations</strong></p><br>Here are some videos with (hopefully) comprehensible content as bonus material, read more about this <a href=\"https://www.japanese-like-a-breeze.com/videomining/\">here</a>. More videos after about 500 cards.<br><br><a href=\"https://youtu.be/ha4GcUYYAns\">Video 1: Another self-introduction</a> <ul><li>...from the same channel as he previous one</li><li>Word hints: jiko shoukai - self introduction</li></ul><br><a href=\"https://youtu.be/nbMQJgYtGZ8\">Video 2: On the bus</a> <ul><li>Word hints: basu - bus, botan - button</li><li>Grammar hints: a verb ending on -tai means \"want to\". In this vid, \"oritai - want to get off\". Don't worry, this is covered later!</li></ul><br><a href=\"https://youtu.be/aE200bPtCl0\">Video 3: Buying some drinks</a> <ul><li>Word hints: ajia - asia, supa - supermarket</li></ul><br><a href=\"https://youtu.be/6y6ehT6gTO4\">Video 4: At the convenience store</a> <ul><li>This is from the famous podcast \"nihongo con teppei\"</li><li>Video contains a few numbers & dates - ignore them for now. This is covered in a separate deck, linked later in this course</li><li>Grammar hint: you ni - in order to</li></ul><br>Just the links for copy/pasting:<br><a href=\"https://youtu.be/ha4GcUYYAns\">https://youtu.be/ha4GcUYYAns</a><br><a href=\"https://youtu.be/nbMQJgYtGZ8\">https://youtu.be/nbMQJgYtGZ8</a><br><a href=\"https://youtu.be/aE200bPtCl0\">https://youtu.be/aE200bPtCl0</a><br><a href=\"https://youtu.be/6y6ehT6gTO4\">https://youtu.be/6y6ehT6gTO4</a><br><br>Are these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://www.japanese-like-a-breeze.com/videomining/",
+   "https://youtu.be/ha4GcUYYAns",
+   "https://youtu.be/nbMQJgYtGZ8",
+   "https://youtu.be/aE200bPtCl0",
+   "https://youtu.be/6y6ehT6gTO4",
+   "https://youtu.be/ha4GcUYYAns",
+   "https://youtu.be/nbMQJgYtGZ8",
+   "https://youtu.be/aE200bPtCl0",
+   "https://youtu.be/6y6ehT6gTO4"
+  ]
+ },
+ {
+  "nid": 1600432220000,
+  "position": 1173,
+  "title": "A remark on the potential form",
+  "text": "A remark on the potential form\n\nI found it hard to recognize the potential form in the beginning: For \"-rareru\" cases (-ru verbs), this could also be the passive, the conjugation is the same. For -u verbs the potential forms are often found as standalone dictionary entries, at least on jisho.org. So in many cases, I just learned them as standalone words and only later realized it was the potential form of some other verb I had not yet known. As always, I recommend to worry not too much about grammar here and to just keep going. Moreover, for understanding a sentence it is often enough to get the meaning of the verb without the exact grammar.\n\nMost difficult here was that conjugations again can be chained to insane constructions, which are usually not found in a text book. Consider e.g. \"korarenakattara\": It's kuru -> korareru -> korarenai -> korarenakatta -> korarenakattara (we didn't cover the last one yet, the past tense is a conjugation helper here) and means: \"if [you] cannot come\". I'm collecting these and add a longer list at the end of this course.",
+  "html": "<p style=\"text-align: center;\"><strong>A remark on the potential form</strong></p><br>I found it hard to recognize the potential form in the beginning: For \"-rareru\" cases (-ru verbs), this could also be the passive, the conjugation is the same. For -u verbs the potential forms are often found as standalone dictionary entries, at least on jisho.org. So in many cases, I just learned them as standalone words and only later realized it was the potential form of some other verb I had not yet known. As always, I recommend to worry not too much about grammar here and to just keep going. Moreover, for understanding a sentence it is often enough to get the meaning of the verb without the exact grammar.<br><br>Most difficult here was that conjugations again can be chained to insane constructions, which are usually not found in a text book. Consider e.g. \"korarenakattara\": It's kuru -> korareru -> korarenai -> korarenakatta -> korarenakattara (we didn't cover the last one yet, the past tense is a conjugation helper here) and means: \"if [you] cannot come\". I'm collecting these and add a longer list at the end of this course.<br>",
+  "links": []
+ },
+ {
+  "nid": 1600432430000,
+  "position": 1194,
+  "title": "A remark on the many \"ifs\"",
+  "text": "A remark on the many \"ifs\"\n\nI already mentioned it: In Japanese there are many ways to express \"if a then b\". Tae Kim breaks it down to four essential cases, but you can construct even more. What worked very well for me was to just map all of these cases to \"if a then b\" without worrying about the differences. You'll understand most materials if you do this and can worry about the differences later.\n\nI'll explain the differences on the following cards, but if you don't fully get this, just stick to this simple rule.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>A remark on the many \"ifs\"</strong></p><br>I already mentioned it: In Japanese there are many ways to express \"if a then b\". Tae Kim breaks it down to four essential cases, but you can construct even more. What worked very well for me was to just map all of these cases to \"if a then b\" without worrying about the differences. You'll understand most materials if you do this and can worry about the differences later.<br><br>I'll explain the differences on the following cards, but if you don't fully get this, just stick to this simple rule.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600432950000,
+  "position": 1246,
+  "title": "Summary: How to say \"if\"",
+  "text": "Summary: How to say \"if\"\n\nSo many ways to say \"if\"! Generally, you'll be just fine if you treat all the \"if\" clauses as equal (i.e. as \"if/when a then b\"). To be honest: Now that I had a detailed look at the rules again, I'm not sure if I fully understood everything myself in the first place. I'll try to sum the key differences up for you:\n\n- [condition] to [result]: If [condition], [result] always happens. Therefore, Tae Kim calls it \"natural consequence\". An example would be: Whenever spring comes, cherry trees start to bloom.\n- -tara: In contrast to \"to\", this represents a one-time or particular result with a soft focus on the result (not the condition), e.g: If summer comes, I will go to Japan (and not to England).\n- -ba: Very similar to \"-tara\", but the emphasis is slightly more on the condition instead of the result.\n- nara: Used, if the condition is bound to a certain context (e.g. something said or done by someone) and you're drawing conclusions from that.\n\nThere's an excellent answer on japanese stackexchange covering this in much more detail. Moreover, some (easier) explanations on wasabi japanese",
+  "html": "<p style=\"text-align: center;\"><strong>Summary: How to say \"if\"</strong></p><br>So many ways to say \"if\"! Generally, you'll be just fine if you treat all the \"if\" clauses as equal (i.e. as \"if/when a then b\"). To be honest: Now that I had a detailed look at the rules again, I'm not sure if I fully understood everything myself in the first place. I'll try to sum the key differences up for you:<br><br><ul><li><strong>[condition] to [result]:</strong> If [condition], [result] <em>always</em> happens. Therefore, Tae Kim calls it \"natural consequence\". An example would be: Whenever spring comes, cherry trees start to bloom.</li><li><strong>-tara:</strong> In contrast to \"to\", this represents a one-time or particular result with a soft focus on the result (not the condition), e.g: If summer comes, <em>I will go to Japan (and not to England)</em>.</strong></li><li><strong>-ba:</strong> Very similar to \"-tara\", but the emphasis is slightly more on the condition instead of the result.</li><li><strong>nara:</strong> Used, if the condition is bound to a certain context (e.g. something said or done by someone) and you're drawing conclusions from that.</li></ul><br>There's an excellent answer on <a href=\"https://japanese.stackexchange.com/questions/393/differences-among-%E3%81%9F%E3%82%89-%E3%81%AA%E3%82%89-%E3%82%93%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%89-%E3%81%88%E3%81%B0-etc\">japanese stackexchange</a> covering this in much more detail. Moreover, some (easier) explanations on <a href=\"https://www.wasabi-jpn.com/japanese-grammar/how-conditionals-work/\">wasabi japanese</a><br>",
+  "links": [
+   "https://japanese.stackexchange.com/questions/393/differences-among-%E3%81%9F%E3%82%89-%E3%81%AA%E3%82%89-%E3%82%93%E3%81%A0%E3%81%A3%E3%81%9F%E3%82%89-%E3%81%88%E3%81%B0-etc",
+   "https://www.wasabi-jpn.com/japanese-grammar/how-conditionals-work/"
+  ]
+ },
+ {
+  "nid": 1600434010000,
+  "position": 1353,
+  "title": "Remark on the -tai form",
+  "text": "Remark on the -tai form\n\nYou do not use \"-tai\" do talk about actions that other people want to do. That would be impolite, because you don't really know what the other person actually wants to do! So saying \"kare ha tabetai - he wants to eat\" is not possible. In Japanese, you express this by saying something like \"it seems like he wants to eat\" - it's covered later.\n\nIf you ask someone however what he wants to do, you can use -tai (have a look at the next card).",
+  "html": "<p style=\"text-align: center;\"><strong>Remark on the -tai form</strong></p><br>You do not use \"-tai\" do talk about actions that other people want to do. That would be impolite, because you don't really know what the other person actually wants to do! So saying \"kare ha tabetai - he wants to eat\" is not possible. In Japanese, you express this by saying something like \"it seems like he wants to eat\" - it's covered later.<br><br>If you ask someone however what he wants to do, you can use -tai (have a look at the next card).<br>",
+  "links": []
+ },
+ {
+  "nid": 1600434670000,
+  "position": 1419,
+  "title": "Summary",
+  "text": "Summary\n\n\"xxx to iu/kiku/yobu/omou\" can be seen as very general quotation. It allows to \"quote\" a relative clause \"xxx\" in order to talk about things that people said, heard or thought. Moreover, the person who said something, may be an abstract, invisible, generic speaker. I.e. in the sentence \"natsume to iimasu\", noone actually said something, but the speaker explains that people in general call him \"natsume\".\n\nHere are some good summaries on this topic with many example sentences. Maggie Sensei also has many sentences spelled in roumaji as well as English translations:\nMaggie Sensei\nWasabi",
+  "html": "<p style=\"text-align: center;\"><strong>Summary</strong></p><br>\"xxx to iu/kiku/yobu/omou\" can be seen as very general quotation. It allows to \"quote\" a relative clause \"xxx\" in order to talk about things that people said, heard or thought. Moreover, the person who said something, may be an abstract, invisible, generic speaker. I.e. in the sentence \"natsume to iimasu\", noone actually said something, but the speaker explains that people <em>in general</em> call him \"natsume\".<br><br>Here are some good summaries on this topic with many example sentences. Maggie Sensei also has many sentences spelled in roumaji as well as English translations:<br><a href=\"https://maggiesensei.com/2010/04/24/request-lesson-%E3%81%A8%E3%81%84%E3%81%86toiu-%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%EF%BC%88toiukoto-and-many-more/\">Maggie Sensei</a><br><a href=\"https://www.wasabi-jpn.com/japanese-grammar/quotation/\">Wasabi</a>",
+  "links": [
+   "https://maggiesensei.com/2010/04/24/request-lesson-%E3%81%A8%E3%81%84%E3%81%86toiu-%E3%81%A8%E3%81%84%E3%81%86%E3%81%93%E3%81%A8%EF%BC%88toiukoto-and-many-more/",
+   "https://www.wasabi-jpn.com/japanese-grammar/quotation/"
+  ]
+ },
+ {
+  "nid": 1600434770000,
+  "position": 1429,
+  "title": "Giving and receiving",
+  "text": "Giving and receiving\n\nHere's a quick glance at what comes next: Japanese in a nutshell has two words to indicate that an item is given from person A to person B: ageru and kureru. Each of them implies a direction: In short, if the speaker or someone close to the speaker gives an item to someone else, \"ageru\" is used. Literally, it means to raise or elevate something. \"kureru\" expresses the other direction: So when you want to say that someone gives an item to you or a person close to you, use \"kureru\". Important to keep in mind: These words are not interchangeable! Doesn't make sense yet? Have a look at the following cards!",
+  "html": "<p style=\"text-align: center;\"><strong>Giving and receiving</strong></p><br>Here's a quick glance at what comes next: Japanese in a nutshell has two words to indicate that an item is given from person A to person B: ageru and kureru. Each of them implies a direction: In short, if the speaker or someone close to the speaker gives an item to someone else, \"ageru\" is used. Literally, it means to raise or elevate something. \"kureru\" expresses the other direction: So when you want to say that someone gives an item to you or a person close to you, use \"kureru\". <strong>Important to keep in mind: These words are not interchangeable!</strong> Doesn't make sense yet? Have a look at the following cards!<br>",
+  "links": []
+ },
+ {
+  "nid": 1600435295000,
+  "position": 1482,
+  "title": "The use of yaru",
+  "text": "The use of yaru\n\nI found the use of \"yaru\" not so easy to understand in some cases. Now that the key use cases are covered, here is a short summary of the most important points:\n- suru vs. yaru: Both can mean \"to do\", but yaru is only used for physical activities\n- -te yaru can be a way to look down on someone\n- There are some common phrases, where yaru is used, e.g. yarareta - you got me.\n\nRead more here if you want to know more, but don't worry about the fine details too much.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>The use of yaru</strong></p><br>I found the use of \"yaru\" not so easy to understand in some cases. Now that the key use cases are covered, here is a short summary of the most important points:<br><ul><li>suru vs. yaru: Both can mean \"to do\", but yaru is only used for physical activities</li><li>-te yaru can be a way to look down on someone</li><li>There are some common phrases, where yaru is used, e.g. yarareta - you got me.</li></ul><br>Read more <a href=\"https://japanese.stackexchange.com/questions/15383/differences-in-usage-between-%E3%81%99%E3%82%8B-and-%E3%82%84%E3%82%8B\">here</a> if you want to know more, but don't worry about the fine details too much.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://japanese.stackexchange.com/questions/15383/differences-in-usage-between-%E3%81%99%E3%82%8B-and-%E3%82%84%E3%82%8B"
+  ]
+ },
+ {
+  "nid": 1600435870000,
+  "position": 1540,
+  "title": "Summary",
+  "text": "Summary\n\nHere's a summary of asking for favors, making requests and commanding people:\n\n- mizu wo kudasai - please give me water.\n- mite kudasai - please look.\n- mite - look (not really an order, rather a casual \"hey, look!\"\n- minaide kudasai - please don't look.\n- minaide - don't look (not really an order, rather a casual \"hey, don't look!\"\n- mite kuremasu / kuremasen ka - can / can't you give me the favor of having a look?\n- mite moraemasu / moraemasen ka - can / can't I receive [the favor of] you looking at this? (weird to translate).\n- mi nasai - watch (polite, but firm order).\n- miro! - look!! command form, casual, rough order (don't use this).\n- miru na! - don't look!! command form, casual, rough order (don't use this).\n\nI used to mix up some conjugations, maybe keep the following in mind:\n\n- miro (command form), taken as volitional, which however is \"miyou\". This is always the case for -ru verbs.\n- miru na (negative command) vs. \"na\"-sentence ending particle that adds emphasis or seeks for confirmation. The pronunciation is very different.\n- minaide (negative request) vs. minakute (negative -te form)\n- mate (order form of matsu) vs. matte (-te form of matsu)",
+  "html": "<p style=\"text-align: center;\"><strong>Summary</strong></p><br>Here's a summary of asking for favors, making requests and commanding people:<br><br><ul><li>mizu wo kudasai - please give me water.</li><li>mite kudasai - please look.</li><li>mite - look (not really an order, rather a casual \"hey, look!\"</li><li>minaide kudasai - please don't look.</li><li>minaide - don't look (not really an order, rather a casual \"hey, don't look!\"</li><li>mite kuremasu / kuremasen ka - can / can't you give me the favor of having a look?</li><li>mite moraemasu / moraemasen ka - can / can't I receive [the favor of] you looking at this? (weird to translate).</li><li>mi nasai - watch (polite, but firm order).</li><li>miro! - look!! command form, casual, rough order (don't use this).</li><li>miru na! - don't look!! command form, casual, rough order (don't use this).</li></ul><br>I used to mix up some conjugations, maybe keep the following in mind:<br><br><ul><li>miro (command form), taken as volitional, which however is \"miyou\". This is always the case for -ru verbs.</li><li>miru na (negative command) vs. \"na\"-sentence ending particle that adds emphasis or seeks for confirmation. The pronunciation is very different.</li><li>minaide (negative request) vs. minakute (negative -te form)</li><li>mate (order form of matsu) vs. matte (-te form of matsu)</li></ul>",
+  "links": []
+ },
+ {
+  "nid": 1600436020000,
+  "position": 1555,
+  "title": "Remark",
+  "text": "Remark\n\nFrom the slang chapter, I omitted many not so common examples and things we already had. You can read the entire section here.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Remark</strong></p><br>From the slang chapter, I omitted many not so common examples and things we already had. You can read the entire section <a href=\"http://www.guidetojapanese.org/learn/grammar/slang\">here</a>.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.guidetojapanese.org/learn/grammar/slang"
+  ]
+ },
+ {
+  "nid": 1600436340000,
+  "position": 1587,
+  "title": "Why should I ignore something?!?!",
+  "text": "Why should I ignore something?!?!\n\nOn many cards before, I wrote: \"Ignore this or that\" - here's why: In many cases, it is not essential to understand every little detail, word or grammar of a sentence. The key message is just fine. In fact, understanding the last final tiny detail will cost you much more time. I often crawled the internet in search for explanations, while I could as well have learned a few new words or sentences in the meantime. In a nutshell, it's the pareto principle applied to language learning.\n\nTakeaway message: Ignoring some things you don't understand yet is a virtue, not a flaw. It will speed you up a lot.\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Why should I ignore something?!?!</strong></p><br>On many cards before, I wrote: \"Ignore this or that\" - here's why: In many cases, it is not essential to understand every little detail, word or grammar of a sentence. The key message is just fine. In fact, understanding the last final tiny detail will cost you much more time. I often crawled the internet in search for explanations, while I could as well have learned a few new words or sentences in the meantime. In a nutshell, it's the <a href=\"https://bilingua.io/the-pareto-principle-in-language-learning-the-8020-rule\">pareto principle applied to language learning</a>.<br><br><strong>Takeaway message: Ignoring some things you don't understand yet is a virtue, not a flaw. It will speed you up a lot.</strong><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p><br>",
+  "links": [
+   "https://bilingua.io/the-pareto-principle-in-language-learning-the-8020-rule"
+  ]
+ },
+ {
+  "nid": 1600436430000,
+  "position": 1617,
+  "title": "Remark",
+  "text": "Remark\n\nMaggie Sensei has a good article with many examples on the causative form, here's the link. Note that she also covers the passive form in this article, which we will have a look at next.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Remark</strong></p><br>Maggie Sensei has a good article with many examples on the causative form, here's the <a href=\"https://maggiesensei.com/2009/10/24/%e3%81%95%e3%81%9b%e3%82%8b%e3%81%95%e3%81%9b%e3%82%89%e3%82%8c%e3%82%8b-saserusaserareru/\">link.</a> Note that she also covers the passive form in this article, which we will have a look at next.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://maggiesensei.com/2009/10/24/%e3%81%95%e3%81%9b%e3%82%8b%e3%81%95%e3%81%9b%e3%82%89%e3%82%8c%e3%82%8b-saserusaserareru/"
+  ]
+ },
+ {
+  "nid": 1600436480000,
+  "position": 1622,
+  "title": "Don't let verb conjugations intimidate you",
+  "text": "Don't let verb conjugations intimidate you\n\nThe variety and similarity of verb conjugations can be very intimidating. My common rule: Don't worry and don't let this get too close to you. My most important remark in this context is: The conjugations are not as important as you might think, in many cases it is sufficient to figure out the meaning of the verb in order to understand a sentence. Moreover, it's totally fine to ignore all the parts you don't fully understand yet and look them up later. I'll elaborate on this towards the end of this course.\n\nTwo sites might be helpful, they can conjugate verbs: Japanese verb conjugator or verbix.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Don't let verb conjugations intimidate you</strong></p><br>The variety and similarity of verb conjugations can be very intimidating. My common rule: Don't worry and don't let this get too close to you. My most important remark in this context is: The conjugations are not as important as you might think, in many cases it is sufficient to figure out the meaning of the verb in order to understand a sentence. Moreover, it's totally fine to ignore all the parts you don't fully understand yet and look them up later. I'll elaborate on this towards the end of this course. <br><br>Two sites might be helpful, they can conjugate verbs: <a href=\"http://www.japaneseverbconjugator.com/\">Japanese verb conjugator</a> or <a href=\"https://verbix.com/find-verb\">verbix</a>.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "http://www.japaneseverbconjugator.com/",
+   "https://verbix.com/find-verb"
+  ]
+ },
+ {
+  "nid": 1600436530000,
+  "position": 1627,
+  "title": "Showing politeness by using passive forms",
+  "text": "Showing politeness by using passive forms\n\nIn Japanese, the passive form may be used to express additional politeness. In short: The less direct a sentence becomes, the more polite it gets. The confusing thing here is that this may be used in an actual conversation, i.e. you talk to someone, while not addressing the person directly. Here's an example with \"suru\" taken from Tae Kim's book:\n- dou suru? - What will you do?\n- dou shimasu ka - What will you do (regular polite)\n- dou saremasu ka - What will you do (passive polite)\n\nHave a look at the next cards.",
+  "html": "<p style=\"text-align: center\"><strong>Showing politeness by using passive forms</strong></p><br>In Japanese, the passive form may be used to express additional politeness. In short: The less direct a sentence becomes, the more polite it gets. The confusing thing here is that this may be used in an actual conversation, i.e. you talk to someone, while not addressing the person directly. Here's an example with \"suru\" taken from Tae Kim's book:<br><ul><li>dou suru? - What will you do?</li><li>dou shimasu ka - What will you do (regular polite)</li><li>dou saremasu ka - What will you do (passive polite)</li></ul><br>Have a look at the next cards.<br>",
+  "links": []
+ },
+ {
+  "nid": 1600436925000,
+  "position": 1667,
+  "title": "Bonus content: Video recommendations",
+  "text": "Bonus content: Video recommendations\n\nHere are some videos with (hopefully) comprehensible content as bonus material, read more about this here. More videos after about 150 cards.\n\nVideo 1: What is the cat doing? - From a very nice channel for beginners, make sure to check out her other videos\n\nVideo 2: Konbini story continues 2 - Again: Ignore numbers and dates, this is covered later\n- Word hints: hitotsu - one (thing, item), anpan - Japanese bread\n- Grammar hint: adjective + sou means \"seems like\". E.g. ureshisou - seems happy. This grammar is covered later.\n\nVideo 2: Konbini story continues 3 - Hint: oneesan does not always mean \"sister\", but can also be used to refer to e.g. a waitress.\n- Grammar hint \"-ba ii\" means \"should\", literally it's \"if doing xxx then it's good\", which translates to \"should\".\n\nJust the links for copy/pasting:\nhttps://youtu.be/08zvf3XSaIk\nhttps://youtu.be/B7RK-qXBgSs\nhttps://youtu.be/g9AWgfYjqOo\n\nAre these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Bonus content: Video recommendations</strong></p><br>Here are some videos with (hopefully) comprehensible content as bonus material, read more about this <a href=\"https://www.japanese-like-a-breeze.com/videomining/\">here</a>. More videos after about 150 cards.<br><br><a href=\"https://youtu.be/08zvf3XSaIk\">Video 1: What is the cat doing?</a> <ul><li>From a very nice channel for beginners, make sure to check out her other videos</li></ul><br><a href=\"https://youtu.be/B7RK-qXBgSs\">Video 2: Konbini story continues 2</a> <ul><li>Again: Ignore numbers and dates, this is covered later</li><li>Word hints: hitotsu - one (thing, item), anpan - Japanese bread</li><li>Grammar hint: adjective + sou means \"seems like\". E.g. ureshisou - seems happy. This grammar is covered later.</li></ul><br><a href=\"https://youtu.be/g9AWgfYjqOo\">Video 2: Konbini story continues 3</a> <ul><li>Hint: oneesan does not always mean \"sister\", but can also be used to refer to e.g. a waitress.</li><li>Grammar hint \"-ba ii\" means \"should\", literally it's \"if doing xxx then it's good\", which translates to \"should\".</li></ul><br>Just the links for copy/pasting:<br><a href=\"https://youtu.be/08zvf3XSaIk\">https://youtu.be/08zvf3XSaIk</a><br><a href=\"https://youtu.be/B7RK-qXBgSs\">https://youtu.be/B7RK-qXBgSs</a><br><a href=\"https://youtu.be/g9AWgfYjqOo\">https://youtu.be/g9AWgfYjqOo</a><br><br>Are these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://www.japanese-like-a-breeze.com/videomining/",
+   "https://youtu.be/08zvf3XSaIk",
+   "https://youtu.be/B7RK-qXBgSs",
+   "https://youtu.be/g9AWgfYjqOo",
+   "https://youtu.be/08zvf3XSaIk",
+   "https://youtu.be/B7RK-qXBgSs",
+   "https://youtu.be/g9AWgfYjqOo"
+  ]
+ },
+ {
+  "nid": 1600437810000,
+  "position": 1768,
+  "title": "Congratulations, you finished 85% of Tae Kim's book",
+  "text": "Congratulations, you finished 85% of Tae Kim's book\n\nIn addition to the grammar, you learned 746 words, great!\n\nThe fifth version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on Ankiweb. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Congratulations, you finished 85% of Tae Kim's book</strong></p><br>In addition to the grammar, you learned <strong>746</strong> words, great!<br><br>The fifth version of this course ended here, in the meantime I added more cards. If you like the course, please rate it on <a href=\"https://ankiweb.net/shared/info/911122782\">Ankiweb</a>. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://ankiweb.net/shared/info/911122782"
+  ]
+ },
+ {
+  "nid": 1600437820000,
+  "position": 1769,
+  "title": "Similarity, appearance and hearsay",
+  "text": "Similarity, appearance and hearsay\n\nJapanese has many different ways to express likeness or similarity, this is covered next. The rules of when to apply what are rather complex. However, the different ways to express this translate to more or less the same thing in English, so I again recommend to not worry about the differences.\n\nFor now, you'll be fine if you translate all hearsay and similarity examples on the following cards to: \"looks like, seems like, appears to be like\".\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Similarity, appearance and hearsay</strong></p><br>Japanese has many different ways to express likeness or similarity, this is covered next. The rules of when to apply what are rather complex. However, the different ways to express this translate to more or less the same thing in English, so I again recommend to not worry about the differences.<br><br><strong>For now, you'll be fine if you translate all hearsay and similarity examples on the following cards to: \"looks like, seems like, appears to be like\".</strong><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600438005000,
+  "position": 1788,
+  "title": "Bonus content: Video recommendations",
+  "text": "Bonus content: Video recommendations\n\nHere are some more videos with (hopefully) comprehensible content as bonus material, read more about this here.\n\nVideo 1: Where's the hospital?- tazuneru - to ask, to inquire (don't learn this yet, it's not too common)\n- su-pa- - supermarket\n\nVideo 2: Where's the bus stop?- basutei - bus stop\n- unchin - fare\n\nVideo 3: Another self introduction- jikoshoukai - self introduction\n- -ken - suffix for prefecture (kind states within Japan)\n- supeingo - spanish\n\nJust the links for copy/pasting:\nhttps://youtu.be/yd2-xA4LEeg\nhttps://youtu.be/fbLVWjC3a1w\nhttps://youtu.be/6mGqjusPIdU\n\nAre these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Bonus content: Video recommendations</strong></p><br>Here are some more videos with (hopefully) comprehensible content as bonus material, read more about this here.<br><br><a href=\"https://youtu.be/yd2-xA4LEeg\">Video 1</a>: Where's the hospital?<ul><li>tazuneru - to ask, to inquire (don't learn this yet, it's not too common)</li><li>su-pa- - supermarket</li></ul><br><a href=\"https://youtu.be/fbLVWjC3a1w\">Video 2:</a> Where's the bus stop?<ul><li>basutei - bus stop</li><li>unchin - fare</li></ul><br><a href=\"https://youtu.be/6mGqjusPIdU\">Video 3:</a> Another self introduction<ul><li>jikoshoukai - self introduction</li><li>-ken - suffix for prefecture (kind states within Japan)</li><li>supeingo - spanish</li></ul><br>Just the links for copy/pasting:<br><a href=\"https://youtu.be/yd2-xA4LEeg\">https://youtu.be/yd2-xA4LEeg</a><br><a href=\"https://youtu.be/fbLVWjC3a1w\">https://youtu.be/fbLVWjC3a1w</a><br><a href=\"https://youtu.be/6mGqjusPIdU\">https://youtu.be/6mGqjusPIdU</a><br><br>Are these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://youtu.be/yd2-xA4LEeg",
+   "https://youtu.be/fbLVWjC3a1w",
+   "https://youtu.be/6mGqjusPIdU",
+   "https://youtu.be/yd2-xA4LEeg",
+   "https://youtu.be/fbLVWjC3a1w",
+   "https://youtu.be/6mGqjusPIdU"
+  ]
+ },
+ {
+  "nid": 1600438270000,
+  "position": 1815,
+  "title": "Remark on \"sou\"",
+  "text": "Remark on \"sou\"\n\nCorrect use of -sou can be quite tricky. Just for the sake of completeness, be aware of the following details (if you don't get it, don't worry, it doesn't make a big difference):\n\nYou can use it to express \"looks like\", this is what I covered before:\noishisou for i-adjectives (drop the last i) or tabesou for verbs (attach it to the stem).\n\nHowever, you can also append \"sou\" to the entire word: oishii sou or taberu sou. This is a bit more general and does not mean \"looks like\" but rather \"I heard that\".\n\nTo be honest, I never was aware of this myself and I'd say it really doesn't make much of a difference most of the time.\n\nHave a look at this video for details: https://www.youtube.com/watch?v=t4z-pIjwyg0\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Remark on \"sou\"</strong></p><br>Correct use of -sou can be quite tricky. Just for the sake of completeness, be aware of the following details (if you don't get it, don't worry, it doesn't make a big difference):<br><br>You can use it to express \"looks like\", this is what I covered before:<br>oishisou for i-adjectives (drop the last i) or tabesou for verbs (attach it to the stem).<br><br>However, you can also append \"sou\" to the entire word: oishii sou or taberu sou. This is a bit more general and does not mean \"looks like\" but rather \"I heard that\".<br><br>To be honest, I never was aware of this myself and I'd say it really doesn't make much of a difference most of the time.<br><br>Have a look at this video for details: https://www.youtube.com/watch?v=t4z-pIjwyg0<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600438360000,
+  "position": 1824,
+  "title": "Don't stick to the rules",
+  "text": "Don't stick to the rules\n\nI already mentioned in the beginning: The rules of when to apply what in the context of similarity/appearance/hearsay are quite complex: you, mitai, sou, rashii, ppoi, different ways to use \"sou\"... So once again: It's fine if you translate all of them to \"seems like, looks like, feels like , appears like\" and read the rules again later.\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Don't stick to the rules</strong></p><br>I already mentioned in the beginning: The rules of when to apply what in the context of similarity/appearance/hearsay are quite complex: you, mitai, sou, rashii, ppoi, different ways to use \"sou\"... So once again: It's fine if you translate all of them to \"seems like, looks like, feels like , appears like\" and read the rules again later.<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": []
+ },
+ {
+  "nid": 1600439180000,
+  "position": 1906,
+  "title": "Yes, you did it!",
+  "text": "Yes, you did it!\n\nWith the last 1850 flashcards, you learned almost the complete content of Tae Kim's grammar book. I skipped about 50 out of 300 pages, mostly honorific language, but also minor topics I found not so relevant or boring. Congratulations and thank you so much for sticking to this deck for so long!\n\nSo far, the deck teaches only 820 words. I want to increase this to at least 2000 with multiple sentences per word. So from now on, the main focus will be new words...\n\nAs always: If you like the course, please rate it on Ankiweb. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Yes, you did it!</strong></p><br>With the last 1850 flashcards, you learned almost the complete content of Tae Kim's grammar book. I skipped about 50 out of 300 pages, mostly honorific language, but also minor topics I found not so relevant or boring. Congratulations and thank you so much for sticking to this deck for so long!<br><br>So far, the deck teaches only 820 words. I want to increase this to at least 2000 with multiple sentences per word. So from now on, the main focus will be new words...<br><br>As always: If you like the course, please rate it on <a href=\"https://ankiweb.net/shared/info/911122782\">Ankiweb</a>. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://ankiweb.net/shared/info/911122782"
+  ]
+ },
+ {
+  "nid": 1600439520000,
+  "position": 1967,
+  "title": "Version 7 of the deck ended here",
+  "text": "Version 7 of the deck ended here\n\nAs always: I will update this deck when I have time. However, the next update will take a while, as I need a serious break now. If you'd like to get notified, you can sign up for the newsletter or check the deck page on Ankiweb.\n\nIf you like the course, please rate it on Ankiweb. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Version 7 of the deck ended here</strong></p><br>As always: I will update this deck when I have time. However, the next update will take a while, as I need a serious break now. If you'd like to get notified, you can sign up for the <a href=\"https://www.japanese-like-a-breeze.com/jlab-newsletter/\">newsletter</a> or check the deck page on <a href=\"https://ankiweb.net/shared/info/911122782\">Ankiweb</a>.<br><br>If you like the course, please rate it on <a href=\"https://ankiweb.net/shared/info/911122782\">Ankiweb</a>. If you don't like it, please send me some suggestions for improvement: joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://www.japanese-like-a-breeze.com/jlab-newsletter/",
+   "https://ankiweb.net/shared/info/911122782",
+   "https://ankiweb.net/shared/info/911122782"
+  ]
+ },
+ {
+  "nid": 1600439855625,
+  "position": 2089,
+  "title": "Bonus content: Video recommendations",
+  "text": "Bonus content: Video recommendations\n\nHere are some more videos with (hopefully) comprehensible content as bonus material, read more about this here.\n\nVideo 1: Dialogue from Genki - Word hints: omiyage - souvenir, otera - temple\n- Remark: The dialogues from Genki sound rather formal.\n\nVideo 2: Japanese palindromes - Palindrome: Word or sentence that reads the same in every direction\n- futoru - to put on weight. This was wrongly recognized as \"futou - envelope\" in the automatic captions, which happens quite often. They're machine-generated, after all ;)\n- Hint: \"doko no ko\" means: \"where's this kid from\"?\n\nVideo 3: Another Genki dialogue - Hints: takeshi is a name\n- Remark: The dialogues from Genki sound rather formal. Especially Tae Kim's desu for everything else does not apply here.\n\nVideo 4: Next part of the konbini story - Remark: Okinawa and hokkaido are prefectures / areas in Japan\n- Word hints: -ken means prefecture, denizu is \"Denny's\" (restaurant chain)\n\nJust the links for copy/pasting:\nhttps://youtu.be/niyGjK04llw\nhttps://youtu.be/UsITkdCCkK4\nhttps://youtu.be/5VxYns5aXXM\nhttps://youtu.be/1Mblhd48Fb8\n\nAre these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Bonus content: Video recommendations</strong></p><br>Here are some more videos with (hopefully) comprehensible content as bonus material, read more about this here.<br><br><a href=\"https://youtu.be/niyGjK04llw\">Video 1: Dialogue from Genki</a> <ul><li>Word hints: omiyage - souvenir, otera - temple </li><li>Remark: The dialogues from Genki sound rather formal.</li></ul><br><a href=\"https://youtu.be/UsITkdCCkK4\">Video 2: Japanese palindromes</a> <ul><li>Palindrome: Word or sentence that reads the same in every direction</li><li>futoru - to put on weight. This was wrongly recognized as \"futou - envelope\" in the automatic captions, which happens quite often. They're machine-generated, after all ;)</li><li>Hint: \"doko no ko\" means: \"where's this kid from\"?</li></ul><br><a href=\"https://youtu.be/5VxYns5aXXM\">Video 3: Another Genki dialogue</a> <ul><li>Hints: takeshi is a name</li><li>Remark: The dialogues from Genki sound rather formal. Especially Tae Kim's <a href=\"https://guidetojapanese.org/learn/grammar/polite#Using_for_everything_else\">desu for everything else</a> does not apply here.</li></ul><br><a href=\"https://youtu.be/1Mblhd48Fb8\">Video 4: Next part of the konbini story</a> <ul><li>Remark: Okinawa and hokkaido are prefectures / areas in Japan</li><li>Word hints: -ken means prefecture, denizu is \"Denny's\" (restaurant chain)</li></ul><br>Just the links for copy/pasting:<br><a href=\"https://youtu.be/niyGjK04llw\">https://youtu.be/niyGjK04llw</a><br><a href=\"https://youtu.be/UsITkdCCkK4\">https://youtu.be/UsITkdCCkK4</a><br><a href=\"https://youtu.be/5VxYns5aXXM\">https://youtu.be/5VxYns5aXXM</a><br><a href=\"https://youtu.be/1Mblhd48Fb8\">https://youtu.be/1Mblhd48Fb8</a><br><br>Are these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://youtu.be/niyGjK04llw",
+   "https://youtu.be/UsITkdCCkK4",
+   "https://youtu.be/5VxYns5aXXM",
+   "https://guidetojapanese.org/learn/grammar/polite#Using_for_everything_else",
+   "https://youtu.be/1Mblhd48Fb8",
+   "https://youtu.be/niyGjK04llw",
+   "https://youtu.be/UsITkdCCkK4",
+   "https://youtu.be/5VxYns5aXXM",
+   "https://youtu.be/1Mblhd48Fb8"
+  ]
+ },
+ {
+  "nid": 1600440125000,
+  "position": 2161,
+  "title": "Bonus content: Video recommendations",
+  "text": "Bonus content: Video recommendations\n\nRead more about this here.\n\nVideo 1: JLPT N5 trial exam - JLPT = Japanese Language Proficiency Test, N5 is the lowest level\n- Ignore the spoken explanation of the assignment (second part of the video, it's harder then the task itself :D)\n- ippiki means: one small animal (such as a cat). This is covered soon...\n\nVideo 2: Simple sentences - The start of this video is boring, skip it. The second part also a bit, but I added it because it's quite easy\n- futari: two people (covered later)\n- kau / katte: In this video, it's not: to buy, but to keep a pet\n\nVideo 3: Like / dislike - I found it slightly boring, but very easy to understand\n- shousetsu: novel\n\nVideo 4: Nice grammar explanation - bunshou: sentence\n\nJust the links for copy/pasting:\nhttps://youtu.be/TPXNwEW6GuA\nhttps://youtu.be/eo-nMB63Ios?t=128\nhttps://youtu.be/AHzAq4uF69c\nhttps://youtu.be/CVOJ6hc6ofo\n\nAre these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center\"><strong>Bonus content: Video recommendations</strong></p><br>Read more about this <a href=\"https://www.japanese-like-a-breeze.com/videomining/\">here</a>.<br><br><a href=\"https://youtu.be/TPXNwEW6GuA\">Video 1: JLPT N5 trial exam</a> <ul><li>JLPT = Japanese Language Proficiency Test, N5 is the lowest level</li><li>Ignore the spoken explanation of the assignment (second part of the video, it's harder then the task itself :D)</li><li>ippiki means: one small animal (such as a cat). This is covered soon...</li></ul><br><a href=\"https://youtu.be/eo-nMB63Ios?t=128\">Video 2: Simple sentences</a> <ul><li>The start of this video is boring, skip it. The second part also a bit, but I added it because it's quite easy</li><li>futari: two people (covered later)</li><li>kau / katte: In this video, it's not: to buy, but to keep a pet</li></ul><br><a href=\"https://youtu.be/AHzAq4uF69c\">Video 3: Like / dislike</a> <ul><li>I found it slightly boring, but very easy to understand</li><li>shousetsu: novel</li></ul><br><a href=\"https://youtu.be/CVOJ6hc6ofo\">Video 4: Nice grammar explanation</a> <ul><li>bunshou: sentence</li></ul><br>Just the links for copy/pasting:<br><a href=\"https://youtu.be/TPXNwEW6GuA\">https://youtu.be/TPXNwEW6GuA</a><br><a href=\"https://youtu.be/eo-nMB63Ios?t=128\">https://youtu.be/eo-nMB63Ios?t=128</a><br><a href=\"https://youtu.be/AHzAq4uF69c\">https://youtu.be/AHzAq4uF69c</a><br><a href=\"https://youtu.be/CVOJ6hc6ofo\">https://youtu.be/CVOJ6hc6ofo</a><br><br>Are these videos easy to understand for you? Please send feedback to joe@japanese-like-a-breeze.com. Thanks!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://www.japanese-like-a-breeze.com/videomining/",
+   "https://youtu.be/TPXNwEW6GuA",
+   "https://youtu.be/eo-nMB63Ios?t=128",
+   "https://youtu.be/AHzAq4uF69c",
+   "https://youtu.be/CVOJ6hc6ofo",
+   "https://youtu.be/TPXNwEW6GuA",
+   "https://youtu.be/eo-nMB63Ios?t=128",
+   "https://youtu.be/AHzAq4uF69c",
+   "https://youtu.be/CVOJ6hc6ofo"
+  ]
+ },
+ {
+  "nid": 1600440130000,
+  "position": 2162,
+  "title": "Numbers and counting",
+  "text": "Numbers and counting\n\nAn important topic I skipped so far is numbers and how to count in Japanese. Personally, I found this boring and annoying for various reasons, so I decided to shift it to a separate deck, which has ~150 cards. This way, you are not blocked by a pile of numbers, but you can learn this topic separately at your own pace. You can download the deck from Ankiweb .\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>Numbers and counting</strong></p><br>An important topic I skipped so far is numbers and how to count in Japanese. Personally, I found this boring and annoying for various reasons, so I decided to shift it to a separate deck, which has ~150 cards. This way, you are not blocked by a pile of numbers, but you can learn this topic separately at your own pace. You can download the deck from <a href=\"https://ankiweb.net/shared/info/1526768876\">Ankiweb</a> .<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://ankiweb.net/shared/info/1526768876"
+  ]
+ },
+ {
+  "nid": 1600440140000,
+  "position": 2163,
+  "title": "The End...",
+  "text": "The End...\n\nThe main part of the beginner's course ends here, which means: You're not a beginner anymore, yay! Many people don't make it this far, I hope you're proud of yourself. However, the path to fluency is still long. If you want to continue with jlab, have a look at this page for different options.\n\nI will still keep adding cards to this deck since I have a grammar backlog with some items. Hoewer, my current focus is the intermediate decks, which are even better than this one. Check out the link above for details!\n\nPress \"@\" or \"!\" to suspend this remark.",
+  "html": "<p style=\"text-align: center;\"><strong>The End...</strong></p><br>The main part of the beginner's course ends here, which means: You're not a beginner anymore, yay! Many people don't make it this far, I hope you're proud of yourself. However, the path to fluency is still long. If you want to continue with jlab, have a look at <a href=\"https://www.japanese-like-a-breeze.com/how-to-continue/\">this page</a> for different options.<br><br>I will still keep adding cards to this deck since I have a grammar backlog with some items. Hoewer, my current focus is the intermediate decks, which are even better than this one. Check out the link above for details!<br><br><p style=\"text-align: center\">Press \"@\" or \"!\" to suspend this remark.</p>",
+  "links": [
+   "https://www.japanese-like-a-breeze.com/how-to-continue/"
+  ]
+ }
+]

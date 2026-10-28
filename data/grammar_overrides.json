@@ -1,0 +1,21 @@
+{
+ "_comment": "Hand-reviewed corrections to the heuristic in scripts/tag_grammar.py. Keys are JLAB card 'order' values. 'untag' = heuristic fired on a vocabulary/usage remark; 'tag' = genuine new grammar point the heuristic missed.",
+ "untag": [38,46,54,55,126,138,154,172,179,192,207,218,227,259,275,276,282,322,432,445,446,460,464,501,513,514,540,569,615,616,651,687,688,702,748,749,791,794,813,844,886,893,905,962,983,986,997,998,1000,
+           1015,1032,1036,1042,1063,1088,1111,1133,1145,1183,1226,1278,1312,1330,1336,1344,1351,1352,1365,1419,1421,1444,1461,1480,1485,1501,1536,1543,1562,1650,1692,1695,1703,1750,1828,1830,1840,1886,1891,1913,1927,1935,2029,2042,2049,2063],
+ "tag": {
+  "19": "\"datta\" is past tense of \"da\".",
+  "23": "\"janakatta\" is the negative, past form of \"da\".",
+  "89": "Past tense for i-adjectives: Replace the last -i with -katta.",
+  "93": "Negative past tense for i-adjectives: Replace the last -i with -kunakatta.",
+  "225": "Relative verb clauses: a verb/sentence placed before a noun describes that noun (nomu hito = a person who drinks).",
+  "230": "Sentences ending on plain \"da\" cannot be used as a relative clause; inflections of da (janai, datta...) can.",
+  "287": "Particle combination \"to no\": combines the meanings of to (with) and no (possessive).",
+  "299": "In casual speech particles (ha, wo, ga...) are often omitted.",
+  "371": "The past polite/teineigo form is built with -mashita instead of -masu.",
+  "624": "hazu: should (be) / is supposed to, described by a relative clause.",
+  "654": "zenzen + negative sentence expresses \"not at all / never\".",
+  "873": "The -tari form also works for the state of being: da -> datta -> dattari.",
+  "1772": "nikui attached to the verb stem expresses that an action is difficult to do.",
+  "2035": "-te kudasaru: same meaning as -te kureru, one level more polite."
+ }
+}

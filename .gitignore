@@ -1,0 +1,12 @@
+# Source decks (230 MB of binaries) and everything unpacked from them
+*.apkg
+raw/
+media/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# macOS
+.DS_Store

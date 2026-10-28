@@ -57,3 +57,48 @@ the first card carrying (a) an explanation paragraph that is repeated verbatim o
 (b) a Tae Kim link not seen before, or (c) a grammar-flavoured paragraph (keyword heuristic),
 with near-duplicate suppression. Every hit was hand-reviewed; corrections live in
 `data/grammar_overrides.json` (95 un-tags, 14 added). Result: 205 grammar cards, 1,871 vocab.
+
+## The app
+
+A local web app with a SQLite progress store. No accounts, no dependencies beyond Python 3.
+
+```
+python3 -I app/import_deck.py     # once (and again after rebuilding the deck; progress is kept)
+python3 -I app/server.py          # http://127.0.0.1:8765
+```
+
+Progress lives in `progress.sqlite` next to the app (ignored by git). Copy it to back up.
+
+### Tiers
+
+Each card runs four parallel FSRS-5 schedules. Grades map to FSRS ratings Again / Hard / Good
+(Easy only for the short circuit).
+
+| Tier | Front | Reveal | Grades |
+|---|---|---|---|
+| Listening | audio only | furigana, gloss, notes, JLAB screenshot | Missed · After a replay · Instant |
+| Reading | kanji only, target word highlighted | furigana, gloss, notes | Missed · Got it slowly · Read & understood · Instant (first review only) |
+| Produce | English gloss (hint: target word) | furigana, audio | Missed · Partly · Got it |
+| Mutate | kanji + a paraphrase prompt (flip the register, change one word, use it in a new sentence...) | furigana, gloss, audio | Missed · Shaky · Got it |
+
+Bucketing and rules (`app/scheduler.py`):
+
+- New cards enter Listening in combined-deck order. One pass on Listening unlocks Reading,
+  Listening + Reading unlock Produce, a Produce pass unlocks Mutate. Unlocked tiers are due at once.
+- **Short circuit.** A first-review Instant on Listening (no replay) marks the card previously
+  known, rates it Easy, seeds Reading with the same long interval and unlocks Produce immediately.
+  A first-review Instant on Reading rates it Easy and marks it short-circuited too.
+  If a short-circuited card misses Produce twice, Reading is re-opened as new and the flag cleared.
+- **Implied credit.** Any pass grants each lower tier in `review` state half of a Good review
+  (stability blended by `implied_credit`), pushing its due date out. Failures never propagate.
+- **Graduation.** A Mutate pass with interval ≥ 30 days after ≥ 3 passes graduates the card:
+  Reading, Produce and Mutate go inactive; Listening stays with a ≥ 120-day interval and a 2×
+  multiplier.
+- **Budget.** One daily review cap (default 180, roughly an hour). New intake per day (default 12)
+  is scaled by review load: full below 50% of the cap, zero at 100%. The queue serves due reviews
+  in higher tiers first, then deck intake, then learning cards coming up within 10 minutes.
+- **Shadow mode.** Every card with at least one pass in any tier, shuffled, auto-played with a
+  configurable repeat count and gap. Not graded.
+
+Keyboard in review: `space` reveal / replay, `R` replay, `1`–`4` grade, `U` undo, `S` skip.
+All coefficients are editable under Settings.
